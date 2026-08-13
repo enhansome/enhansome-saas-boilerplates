@@ -1,0 +1,474 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Openkoda https://github.com/openkoda/openkoda",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-19T12:59:22Z",
+            "owner": "openkoda",
+            "repo": "openkoda",
+            "stars": 1033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZukovLabs SaaS Starter https://github.com/zukovlabs/enterprise-java-saas-starter-kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-29T16:09:30Z",
+            "owner": "zukovlabs",
+            "repo": "enterprise-java-saas-starter-kit",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSaaS.sh - Open Source https://opensaas.sh/?utm_source=awesome-saas-boilerplates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-06T11:28:44Z",
+            "owner": "wasp-lang",
+            "repo": "open-saas",
+            "stars": 15294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T08:15:05Z",
+            "owner": "boxyhq",
+            "repo": "saas-starter-kit",
+            "stars": 4902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-21T18:07:06Z",
+            "owner": "async-labs",
+            "repo": "saas",
+            "stars": 4500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ULTIMATE BACKEND. Open Source. https://github.com/juicycleff/ultimate-backend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-16T14:19:11Z",
+            "owner": "juicycleff",
+            "repo": "ultimate-backend",
+            "stars": 2899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphile Starter - https://github.com/graphile/starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T11:51:30Z",
+            "owner": "graphile",
+            "repo": "starter",
+            "stars": 1827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-21T17:59:49Z",
+            "owner": "SimonHoiberg",
+            "repo": "saas-template",
+            "stars": 786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAAS-Starter-Kit - https://github.com/Saas-Starter-Kit/Saas-Kit-prisma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-28T19:34:43Z",
+            "owner": "Saas-Starter-Kit",
+            "repo": "Saas-Kit-prisma",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaSgear. Open Source. https://github.com/JSLancerTeam/saasgear",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-24T04:05:03Z",
+            "owner": "JSLancerTeam",
+            "repo": "saasgear",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaStr. Open Source. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-05T14:04:33Z",
+            "owner": "aloysius-tim",
+            "repo": "saas-react-starter-kit-boilerplate",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaS Starter. Open Source. https://github.com/cedrickchee/saas-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T18:42:34Z",
+            "owner": "cedrickchee",
+            "repo": "saas-starter",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALPack - https://github.com/apptension/ALPack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-01T18:31:42Z",
+            "owner": "apptension",
+            "repo": "ALPack",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-27T22:37:44Z",
+            "owner": "umar0645",
+            "repo": "nodejs-sequelize-auth-boilerplate-with-swagger",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js SaaS Boilerplate - Open Source Next.js 16 starter with auth (Better Auth), Stripe billing, admin dashboard, blog CMS, RBAC, email system, and 50+ shadcn/ui components https://github.com/habibjutt/nextjs_boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T08:48:09Z",
+            "owner": "habibjutt",
+            "repo": "nextjs_boilerplate",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salable - https://github.com/Salable/nextjs-with-salable",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Next.js Boilerplate - Open Source https://github.com/ixartz/Next-js-Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T23:07:09Z",
+            "owner": "ixartz",
+            "repo": "Next-js-Boilerplate",
+            "stars": 13044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-01-23T15:21:43Z",
+            "owner": "vercel",
+            "repo": "nextjs-subscription-payments",
+            "stars": 7726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-15T21:25:58Z",
+            "owner": "KolbySisk",
+            "repo": "next-supabase-stripe-starter",
+            "stars": 808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Velobase Harness - https://github.com/velobase/velobase-harness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T08:08:26Z",
+            "owner": "velobase",
+            "repo": "velobase-harness",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-05T17:29:40Z",
+            "owner": "nocode-js",
+            "repo": "nocode-platform-boilerplate",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextJS 14 SaaS Starter with Lucia and Stripe https://github.com/juliankoehn/nextjs-saas-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-22T19:37:30Z",
+            "owner": "juliankoehn",
+            "repo": "nextjs-saas-starter",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic React Template - Open Source Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS https://github.com/iscale-llc/agentic-react-nextjs-shadcn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-03T22:33:08Z",
+            "owner": "iscale-llc",
+            "repo": "agentic-react-nextjs-shadcn",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Next.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "saas-boilerplate - Open Source https://github.com/miracuthbert/saas-boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-27T15:13:55Z",
+            "owner": "miracuthbert",
+            "repo": "saas-boilerplate",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electrik - https://github.com/electrikhq/electrik",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-25T09:17:10Z",
+            "owner": "electrikhq",
+            "repo": "electrik",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaasForgeKit Lite - https://github.com/SaasForgeKit/saasforgekit-lite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-11T06:47:59Z",
+            "owner": "SaasForgeKit",
+            "repo": "saasforgekit-lite",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Laravel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Django SaaS - Open source https://github.com/PaulleDemon/Django-SAAS-Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-26T03:52:52Z",
+            "owner": "PaulleDemon",
+            "repo": "Django-SAAS-Boilerplate",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djangorocket - https://github.com/ernestofgonzalez/djangorocket",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-20T13:49:08Z",
+            "owner": "ernestofgonzalez",
+            "repo": "djangorocket",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YaSaas - https://github.com/roperi/yasaas/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-12T16:42:22Z",
+            "owner": "roperi",
+            "repo": "YaSaas",
+            "stars": 125
+          }
+        }
+      ],
+      "title": "Django"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flask App Builder - Open Source https://github.com/dpgaspar/Flask-AppBuilder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T15:26:46Z",
+            "owner": "dpgaspar",
+            "repo": "Flask-AppBuilder",
+            "stars": 4956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ignite - https://github.com/sumukh/ignite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-13T22:51:00Z",
+            "owner": "Sumukh",
+            "repo": "Ignite",
+            "stars": 232
+          }
+        }
+      ],
+      "title": "Flask"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:02:51.512Z",
+    "original_repository": "xcomptek/awesome-saas-boilerplates",
+    "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
+    "enhanced_repository": "enhansome/enhansome-saas-boilerplates",
+    "enhanced_repository_description": null,
+    "title": "Awesome JVM with stars"
+  }
+}
