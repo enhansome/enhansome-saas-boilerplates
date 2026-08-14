@@ -48,7 +48,7 @@
             "last_commit": "2026-08-06T11:28:44Z",
             "owner": "wasp-lang",
             "repo": "open-saas",
-            "stars": 15294
+            "stars": 15304
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4902
+            "stars": 4904
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-06-29T08:48:09Z",
             "owner": "habibjutt",
             "repo": "nextjs_boilerplate",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-08-01T23:07:09Z",
             "owner": "ixartz",
             "repo": "Next-js-Boilerplate",
-            "stars": 13044
+            "stars": 13043
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2025-01-23T15:21:43Z",
             "owner": "vercel",
             "repo": "nextjs-subscription-payments",
-            "stars": 7726
+            "stars": 7724
           }
         },
         {
@@ -281,10 +281,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-22T08:08:26Z",
+            "last_commit": "2026-08-14T02:28:10Z",
             "owner": "velobase",
             "repo": "velobase-harness",
-            "stars": 583
+            "stars": 584
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2024-10-26T03:52:52Z",
             "owner": "PaulleDemon",
             "repo": "Django-SAAS-Boilerplate",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:02:51.512Z",
+    "last_updated": "2026-08-14T20:00:44.345Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
     "enhanced_repository": "enhansome/enhansome-saas-boilerplates",
