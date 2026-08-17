@@ -14,7 +14,7 @@
             "last_commit": "2025-02-19T12:59:22Z",
             "owner": "openkoda",
             "repo": "openkoda",
-            "stars": 1033
+            "stars": 1034
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-06T11:28:44Z",
             "owner": "wasp-lang",
             "repo": "open-saas",
-            "stars": 15418
+            "stars": 15469
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4906
+            "stars": 4904
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-08-01T23:07:09Z",
             "owner": "ixartz",
             "repo": "Next-js-Boilerplate",
-            "stars": 13044
+            "stars": 13042
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2025-01-23T15:21:43Z",
             "owner": "vercel",
             "repo": "nextjs-subscription-payments",
-            "stars": 7724
+            "stars": 7723
           }
         },
         {
@@ -284,7 +284,7 @@
             "last_commit": "2026-08-14T02:28:10Z",
             "owner": "velobase",
             "repo": "velobase-harness",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:39:53.476Z",
+    "last_updated": "2026-08-17T19:47:31.765Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
     "enhanced_repository": "enhansome/enhansome-saas-boilerplates",
