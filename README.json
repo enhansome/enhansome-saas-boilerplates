@@ -48,7 +48,7 @@
             "last_commit": "2026-08-06T11:28:44Z",
             "owner": "wasp-lang",
             "repo": "open-saas",
-            "stars": 15469
+            "stars": 15503
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-07-20T08:15:05Z",
             "owner": "boxyhq",
             "repo": "saas-starter-kit",
-            "stars": 4904
+            "stars": 4908
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-02-16T14:19:11Z",
             "owner": "juicycleff",
             "repo": "ultimate-backend",
-            "stars": 2899
+            "stars": 2900
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-04-15T21:25:58Z",
             "owner": "KolbySisk",
             "repo": "next-supabase-stripe-starter",
-            "stars": 808
+            "stars": 807
           }
         },
         {
@@ -284,7 +284,7 @@
             "last_commit": "2026-08-14T02:28:10Z",
             "owner": "velobase",
             "repo": "velobase-harness",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:47:31.765Z",
+    "last_updated": "2026-08-18T19:45:41.846Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
     "enhanced_repository": "enhansome/enhansome-saas-boilerplates",
