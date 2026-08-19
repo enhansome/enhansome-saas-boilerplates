@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15516
+                "stars": 15519
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-01T23:07:09Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13042
+                "stars": 13044
               }
             },
             {
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:10.963Z",
+    "last_updated": "2026-08-19T19:45:55.699Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_id": 371328045,
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
