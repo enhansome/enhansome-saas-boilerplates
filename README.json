@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15519
+                "stars": 15536
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2025-03-21T18:07:06Z",
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4500
+                "stars": 4501
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-02-16T14:19:11Z",
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2900
+                "stars": 2901
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2024-07-28T19:34:43Z",
                 "owner": "Saas-Starter-Kit",
                 "repo": "Saas-Kit-prisma",
-                "stars": 626
+                "stars": 625
               }
             },
             {
@@ -258,10 +258,10 @@
                 "archived": false,
                 "id": 281769216,
                 "language": "TypeScript",
-                "last_commit": "2026-08-01T23:07:09Z",
+                "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13044
+                "stars": 13049
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2025-01-23T15:21:43Z",
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7723
+                "stars": 7722
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-04-15T21:25:58Z",
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 807
+                "stars": 806
               }
             },
             {
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:45:55.699Z",
+    "last_updated": "2026-08-20T19:51:19.202Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_id": 371328045,
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
