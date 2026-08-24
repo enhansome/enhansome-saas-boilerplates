@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15610
+                "stars": 15617
               }
             },
             {
@@ -277,7 +277,7 @@
                 "last_commit": "2026-03-21T20:53:07Z",
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2354
+                "stars": 2355
               }
             }
           ],
@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13055
+                "stars": 13056
               }
             },
             {
@@ -350,7 +350,7 @@
                 "last_commit": "2026-08-14T02:28:10Z",
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 583
+                "stars": 584
               }
             },
             {
@@ -435,7 +435,7 @@
                 "archived": false,
                 "id": 539105794,
                 "language": "PHP",
-                "last_commit": "2026-08-24T11:59:16Z",
+                "last_commit": "2026-08-24T14:28:58Z",
                 "owner": "electrikhq",
                 "repo": "electrik",
                 "stars": 293
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:20.041Z",
+    "last_updated": "2026-08-24T19:50:19.223Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_id": 371328045,
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
