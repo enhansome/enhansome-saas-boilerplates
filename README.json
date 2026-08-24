@@ -43,6 +43,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SaaS Starter by Cloudrix - Open Source. https://github.com/sayahweb2-png/saas-starter-lite",
+              "description": "NestJS + Angular, Stripe, multi-tenancy, MIT license",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1248387012,
+                "language": "TypeScript",
+                "last_commit": "2026-07-18T22:17:25Z",
+                "owner": "sayahweb2-png",
+                "repo": "saas-starter-lite",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NestJs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "OpenSaaS.sh - Open Source https://opensaas.sh/?utm_source=awesome-saas-boilerplates",
               "description": null,
               "children": [],
@@ -53,7 +75,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15587
+                "stars": 15610
               }
             },
             {
@@ -68,7 +90,7 @@
                 "last_commit": "2026-07-20T08:15:05Z",
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4912
+                "stars": 4913
               }
             },
             {
@@ -83,7 +105,7 @@
                 "last_commit": "2025-03-21T18:07:06Z",
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4502
+                "stars": 4503
               }
             },
             {
@@ -240,6 +262,28 @@
           "description": null,
           "node_type": "group",
           "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681429716,
+                "language": "Svelte",
+                "last_commit": "2026-03-21T20:53:07Z",
+                "owner": "scosman",
+                "repo": "CMSaasStarter",
+                "stars": 2354
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SvelteKit"
         }
       ],
       "title": "Javascript/Typescript"
@@ -261,7 +305,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13054
+                "stars": 13055
               }
             },
             {
@@ -276,7 +320,7 @@
                 "last_commit": "2025-01-23T15:21:43Z",
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7723
+                "stars": 7722
               }
             },
             {
@@ -391,7 +435,7 @@
                 "archived": false,
                 "id": 539105794,
                 "language": "PHP",
-                "last_commit": "2026-08-23T14:00:09Z",
+                "last_commit": "2026-08-24T11:59:16Z",
                 "owner": "electrikhq",
                 "repo": "electrik",
                 "stars": 293
@@ -514,10 +558,130 @@
         }
       ],
       "title": "Python"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LastSaaS. Go + React + MongoDB. Open Source https://github.com/jonradoff/lastsaas",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1164156051,
+                "language": "Go",
+                "last_commit": "2026-03-05T18:12:51Z",
+                "owner": "jonradoff",
+                "repo": "lastsaas",
+                "stars": 160
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rails Tabler Starter - https://github.com/tarunvelli/rails-tabler-starter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575705097,
+                "language": "Ruby",
+                "last_commit": "2026-06-06T10:35:30Z",
+                "owner": "tarunvelli",
+                "repo": "rails-tabler-starter",
+                "stars": 203
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby on Rails"
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SupaNuxt - Open Source https://github.com/JavascriptMick/supanuxt-saas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 584285373,
+            "language": "Vue",
+            "last_commit": "2024-02-25T01:13:22Z",
+            "owner": "JavascriptMick",
+            "repo": "supanuxt-saas",
+            "stars": 519
+          }
+        }
+      ],
+      "title": "Nuxt"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Extro - Open source browser extension starter kit https://github.com/turbostarter/extro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 881051345,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T10:28:24Z",
+            "owner": "turbostarter",
+            "repo": "extro",
+            "stars": 401
+          }
+        }
+      ],
+      "title": "Rare frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Terraform Starter - Open Source https://github.com/DmitrySadovnikov/terraform-starter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1040420919,
+                "language": "HCL",
+                "last_commit": "2025-09-14T13:01:55Z",
+                "owner": "DmitrySadovnikov",
+                "repo": "terraform-starter",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terraform"
+        }
+      ],
+      "title": "Deployment & Infrastructure"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:41:28.641Z",
+    "last_updated": "2026-08-24T13:59:20.041Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_id": 371328045,
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
