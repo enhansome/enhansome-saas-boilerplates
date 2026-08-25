@@ -30,7 +30,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js
 
-* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 15,617 | 🐛 104 | 🌐 MDX | 📅 2026-08-06
+* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 15,618 | 🐛 104 | 🌐 MDX | 📅 2026-08-06
 * Enterprise-ready SaaS Starter Kit. **Open Source**. <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,913 | 🐛 46 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,913 | 🐛 46 | 🌐 TypeScript | 📅 2026-07-20
 * SaaS Boilerplate by Async Labs - <https://github.com/async-labs/saas> ⭐ 4,503 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas) ⭐ 4,503 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21
 * ULTIMATE BACKEND. **Open Source**. <https://github.com/juicycleff/ultimate-backend> ⭐ 2,903 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,903 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
@@ -299,4 +299,4 @@ List of SaaS boilerplates (starter kits) by stack
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

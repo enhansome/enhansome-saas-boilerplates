@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15617
+                "stars": 15618
               }
             },
             {
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:50:19.223Z",
+    "last_updated": "2026-08-25T05:53:13.749Z",
     "original_repository": "xcomptek/awesome-saas-boilerplates",
     "original_repository_id": 371328045,
     "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
