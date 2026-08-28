@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-06T11:28:44Z",
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15644
+                "stars": 15652
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-20T19:51:14Z",
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13053
+                "stars": 13055
               }
             },
             {
@@ -347,7 +347,7 @@
                 "archived": false,
                 "id": 1203556545,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T02:28:10Z",
+                "last_commit": "2026-08-28T03:07:52Z",
                 "owner": "velobase",
                 "repo": "velobase-harness",
                 "stars": 586
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:58.477Z",
+    "last_updated": "2026-08-28T03:37:13.805Z",
     "original_repository_info": {
       "archived": false,
       "id": 371328045,
