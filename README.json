@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "zukovlabs",
             "repo": "enterprise-java-saas-starter-kit",
-            "stars": 10,
+            "stars": 12,
             "topics": [
               "angular-material",
               "angular21",
@@ -142,7 +142,7 @@
                 "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15660,
+                "stars": 15666,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 46,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4916,
+                "stars": 4915,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13055,
+                "stars": 13056,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -731,7 +731,7 @@
                 "open_issues": 2,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 588,
+                "stars": 590,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -908,7 +908,7 @@
                 "id": 539105794,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T09:54:31Z",
+                "last_commit": "2026-08-29T10:42:18Z",
                 "open_issues": 4,
                 "owner": "electrikhq",
                 "repo": "electrik",
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1267,7 +1267,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "ai",
               "boilerplate",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:20:19.164Z",
+    "last_updated": "2026-08-29T21:49:19.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1350,14 +1350,14 @@
       "id": 371328045,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-17T08:42:43Z",
-      "open_issues": 18,
+      "last_commit": "2026-08-29T12:28:31Z",
+      "open_issues": 9,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3086,
       "topics": []
     },
-    "original_repository_sha": "2dc4e13f7f94d182798b6ae04083097fa273c72f",
+    "original_repository_sha": "4a28099bc2e5ea9d9887a0a3aaf69912e052d932",
     "enhanced_repository": "enhansome/enhansome-saas-boilerplates",
     "enhanced_repository_description": null,
     "title": "Awesome JVM with stars"
