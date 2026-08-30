@@ -142,7 +142,7 @@
                 "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15666,
+                "stars": 15676,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 46,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4915,
+                "stars": 4914,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4502,
+                "stars": 4503,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2357,
+                "stars": 2356,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13056,
+                "stars": 13057,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -701,7 +701,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 807,
+                "stars": 806,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -727,8 +727,8 @@
                 "id": 1203556545,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T07:54:24Z",
-                "open_issues": 2,
+                "last_commit": "2026-08-30T10:45:44Z",
+                "open_issues": 1,
                 "owner": "velobase",
                 "repo": "velobase-harness",
                 "stars": 590,
@@ -834,7 +834,7 @@
                 "license": null,
                 "last_commit": "2026-03-03T22:33:08Z",
                 "open_issues": 0,
-                "owner": "iscale-llc",
+                "owner": "jasonakatiff",
                 "repo": "agentic-react-nextjs-shadcn",
                 "stars": 12,
                 "topics": [
@@ -980,7 +980,7 @@
                 "open_issues": 2,
                 "owner": "PaulleDemon",
                 "repo": "Django-SAAS-Boilerplate",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "django",
                   "django-saas-starter",
@@ -1007,7 +1007,7 @@
                 "open_issues": 4,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:49:19.876Z",
+    "last_updated": "2026-08-30T21:55:56.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
