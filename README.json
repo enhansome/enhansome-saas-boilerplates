@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "zukovlabs",
             "repo": "enterprise-java-saas-starter-kit",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "angular-material",
               "angular21",
@@ -139,10 +139,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-08-06T11:28:44Z",
-                "open_issues": 104,
+                "open_issues": 103,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15676,
+                "stars": 15687,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 46,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4914,
+                "stars": 4916,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13057,
+                "stars": 13059,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7719,
+                "stars": 7720,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -731,7 +731,7 @@
                 "open_issues": 1,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 590,
+                "stars": 588,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1102,7 +1102,7 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-13T22:51:00Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "Sumukh",
                 "repo": "Ignite",
                 "stars": 232,
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1267,7 +1267,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "ai",
               "boilerplate",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:55:56.225Z",
+    "last_updated": "2026-08-31T23:15:01.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
