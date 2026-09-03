@@ -139,10 +139,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-08-06T11:28:44Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15708,
+                "stars": 15713,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 47,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4922,
+                "stars": 4924,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4503,
+                "stars": 4504,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -513,7 +513,7 @@
                 "open_issues": 40,
                 "owner": "habibjutt",
                 "repo": "nextjs_boilerplate",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "admin-dashboard",
                   "authentication",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2355,
+                "stars": 2356,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13062,
+                "stars": 13064,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -727,11 +727,11 @@
                 "id": 1203556545,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T10:45:44Z",
+                "last_commit": "2026-09-03T11:14:57Z",
                 "open_issues": 1,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -914,18 +914,18 @@
                 "repo": "electrik",
                 "stars": 293,
                 "topics": [
+                  "billing",
                   "laravel",
-                  "laravel-admin",
-                  "laravel-framework",
-                  "laravel-nova",
                   "laravel-package",
                   "laravel-starter-kit",
-                  "laravel9",
+                  "livewire",
                   "php",
                   "saas",
-                  "saas-boilerpate",
                   "saas-boilerplate",
-                  "tailwindcss"
+                  "stripe",
+                  "tailwindcss",
+                  "tall-stack",
+                  "teams"
                 ]
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:53:40.660Z",
+    "last_updated": "2026-09-03T21:46:17.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1354,7 +1354,7 @@
       "open_issues": 9,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3086,
+      "stars": 3085,
       "topics": []
     },
     "original_repository_sha": "4a28099bc2e5ea9d9887a0a3aaf69912e052d932",
