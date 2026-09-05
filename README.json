@@ -139,10 +139,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-08-06T11:28:44Z",
-                "open_issues": 104,
+                "open_issues": 103,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15724,
+                "stars": 15731,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 47,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4925,
+                "stars": 4924,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4504,
+                "stars": 4507,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13064,
+                "stars": 13067,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7717,
+                "stars": 7716,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -701,7 +701,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 806,
+                "stars": 807,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -731,7 +731,7 @@
                 "open_issues": 1,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 593,
+                "stars": 596,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:35:37.029Z",
+    "last_updated": "2026-09-05T21:23:59.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
