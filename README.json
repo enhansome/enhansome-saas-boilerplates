@@ -142,7 +142,7 @@
                 "open_issues": 103,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15731,
+                "stars": 15741,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 47,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4924,
+                "stars": 4928,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4507,
+                "stars": 4508,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13067,
+                "stars": 13069,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -701,7 +701,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -727,7 +727,7 @@
                 "id": 1203556545,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:14:57Z",
+                "last_commit": "2026-09-06T05:53:58Z",
                 "open_issues": 1,
                 "owner": "velobase",
                 "repo": "velobase-harness",
@@ -912,7 +912,7 @@
                 "open_issues": 4,
                 "owner": "electrikhq",
                 "repo": "electrik",
-                "stars": 294,
+                "stars": 297,
                 "topics": [
                   "billing",
                   "laravel",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:23:59.298Z",
+    "last_updated": "2026-09-06T21:29:06.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1354,7 +1354,7 @@
       "open_issues": 9,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3086,
+      "stars": 3085,
       "topics": []
     },
     "original_repository_sha": "4a28099bc2e5ea9d9887a0a3aaf69912e052d932",
