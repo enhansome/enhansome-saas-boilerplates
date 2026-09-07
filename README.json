@@ -139,10 +139,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-08-06T11:28:44Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15741,
+                "stars": 15750,
                 "topics": [
                   "ai",
                   "authentication",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4508,
+                "stars": 4509,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -492,7 +492,7 @@
                 "open_issues": 0,
                 "owner": "apptension",
                 "repo": "ALPack",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -513,7 +513,7 @@
                 "open_issues": 40,
                 "owner": "habibjutt",
                 "repo": "nextjs_boilerplate",
-                "stars": 12,
+                "stars": 11,
                 "topics": [
                   "admin-dashboard",
                   "authentication",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2355,
+                "stars": 2356,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13069,
+                "stars": 13072,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -731,7 +731,7 @@
                 "open_issues": 1,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 596,
+                "stars": 597,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -883,7 +883,7 @@
                 "open_issues": 9,
                 "owner": "miracuthbert",
                 "repo": "saas-boilerplate",
-                "stars": 382,
+                "stars": 383,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -912,7 +912,7 @@
                 "open_issues": 4,
                 "owner": "electrikhq",
                 "repo": "electrik",
-                "stars": 297,
+                "stars": 299,
                 "topics": [
                   "billing",
                   "laravel",
@@ -1074,7 +1074,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4958,
+                "stars": 4959,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:29:06.961Z",
+    "last_updated": "2026-09-07T22:07:17.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1351,7 +1351,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-29T12:28:31Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3085,
