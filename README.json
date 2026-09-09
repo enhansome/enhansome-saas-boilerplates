@@ -142,7 +142,7 @@
                 "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15763,
+                "stars": 15767,
                 "topics": [
                   "ai",
                   "authentication",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2357,
+                "stars": 2359,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -731,7 +731,7 @@
                 "open_issues": 2,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1074,7 +1074,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4959,
+                "stars": 4960,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:56:02.299Z",
+    "last_updated": "2026-09-09T21:46:29.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1350,14 +1350,14 @@
       "id": 371328045,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-29T12:28:31Z",
+      "last_commit": "2026-09-09T09:04:49Z",
       "open_issues": 10,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3085,
+      "stars": 3084,
       "topics": []
     },
-    "original_repository_sha": "4a28099bc2e5ea9d9887a0a3aaf69912e052d932",
+    "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
     "enhanced_repository": "enhansome/enhansome-saas-boilerplates",
     "enhanced_repository_description": null,
     "title": "Awesome JVM with stars"
