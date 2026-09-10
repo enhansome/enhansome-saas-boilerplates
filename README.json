@@ -139,10 +139,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-08-06T11:28:44Z",
-                "open_issues": 104,
+                "open_issues": 103,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15767,
+                "stars": 15771,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 48,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4929,
+                "stars": 4931,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -628,11 +628,11 @@
                 "id": 281769216,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T19:16:34Z",
+                "last_commit": "2026-09-09T22:17:50Z",
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13073,
+                "stars": 13075,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7716,
+                "stars": 7717,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -727,7 +727,7 @@
                 "id": 1203556545,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T05:53:58Z",
+                "last_commit": "2026-09-10T01:22:01Z",
                 "open_issues": 2,
                 "owner": "velobase",
                 "repo": "velobase-harness",
@@ -908,7 +908,7 @@
                 "id": 539105794,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T08:43:32Z",
+                "last_commit": "2026-09-10T07:12:38Z",
                 "open_issues": 4,
                 "owner": "electrikhq",
                 "repo": "electrik",
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:46:29.480Z",
+    "last_updated": "2026-09-10T21:42:31.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
