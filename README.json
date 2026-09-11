@@ -139,10 +139,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-08-06T11:28:44Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15771,
+                "stars": 15782,
                 "topics": [
                   "ai",
                   "authentication",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13075,
+                "stars": 13076,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -701,7 +701,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 808,
+                "stars": 810,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -727,8 +727,8 @@
                 "id": 1203556545,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T01:22:01Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-11T05:40:40Z",
+                "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
                 "stars": 599,
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:42:31.354Z",
+    "last_updated": "2026-09-11T21:47:42.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1351,7 +1351,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 10,
+      "open_issues": 12,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3084,
