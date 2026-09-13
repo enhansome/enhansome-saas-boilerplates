@@ -142,7 +142,7 @@
                 "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15802,
+                "stars": 15814,
                 "topics": [
                   "ai",
                   "authentication",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4509,
+                "stars": 4510,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -340,7 +340,7 @@
                 "open_issues": 7,
                 "owner": "SimonHoiberg",
                 "repo": "saas-template",
-                "stars": 786,
+                "stars": 787,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -492,7 +492,28 @@
                 "open_issues": 0,
                 "owner": "apptension",
                 "repo": "ALPack",
-                "stars": 28,
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:19:34.117Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A boilerplate Node.js application using Sequelize for ORM, equipped with authentication features and documented with Swagger.",
+                "homepage": null,
+                "id": 680148732,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2023-12-27T22:37:44Z",
+                "open_issues": 0,
+                "owner": "umar0645",
+                "repo": "nodejs-sequelize-auth-boilerplate-with-swagger",
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -533,27 +554,6 @@
                 ]
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A boilerplate Node.js application using Sequelize for ORM, equipped with authentication features and documented with Swagger.",
-                "homepage": null,
-                "id": 680148732,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2023-12-27T22:37:44Z",
-                "open_issues": 0,
-                "owner": "umar0645",
-                "repo": "nodejs-sequelize-auth-boilerplate-with-swagger",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:19:34.117Z"
             }
           ],
           "description": null,
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2359,
+                "stars": 2360,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13075,
+                "stars": 13078,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7718,
+                "stars": 7719,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -701,7 +701,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -731,7 +731,7 @@
                 "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1007,7 +1007,7 @@
                 "open_issues": 4,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -1074,7 +1074,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4959,
+                "stars": 4961,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:29:50.589Z",
+    "last_updated": "2026-09-13T21:29:31.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
