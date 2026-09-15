@@ -142,7 +142,7 @@
                 "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15823,
+                "stars": 15831,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 48,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4934,
+                "stars": 4936,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2360,
+                "stars": 2362,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7718,
+                "stars": 7719,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -731,7 +731,7 @@
                 "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -909,7 +909,7 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T07:12:38Z",
-                "open_issues": 4,
+                "open_issues": 1,
                 "owner": "electrikhq",
                 "repo": "electrik",
                 "stars": 303,
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:35:54.968Z",
+    "last_updated": "2026-09-15T22:20:59.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
