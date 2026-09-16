@@ -142,7 +142,7 @@
                 "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15831,
+                "stars": 15840,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 48,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4936,
+                "stars": 4937,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -263,7 +263,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -305,7 +305,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1827,
+                "stars": 1826,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13080,
+                "stars": 13078,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7719,
+                "stars": 7716,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -701,7 +701,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 812,
+                "stars": 813,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -728,7 +728,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T05:40:40Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "velobase",
                 "repo": "velobase-harness",
                 "stars": 601,
@@ -1070,11 +1070,11 @@
                 "id": 14265145,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-07-10T15:26:46Z",
+                "last_commit": "2026-09-16T13:08:55Z",
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4961,
+                "stars": 4960,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1267,7 +1267,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "ai",
               "boilerplate",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:20:59.325Z",
+    "last_updated": "2026-09-16T22:14:12.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
