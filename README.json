@@ -142,7 +142,7 @@
                 "open_issues": 106,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15848,
+                "stars": 15874,
                 "topics": [
                   "ai",
                   "authentication",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4511,
+                "stars": 4510,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -263,7 +263,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -361,7 +361,7 @@
                 "open_issues": 1,
                 "owner": "Saas-Starter-Kit",
                 "repo": "Saas-Kit-prisma",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "casl",
                   "next-auth",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2361,
+                "stars": 2362,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13077,
+                "stars": 13078,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7717,
+                "stars": 7718,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -909,7 +909,7 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T07:12:38Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "electrikhq",
                 "repo": "electrik",
                 "stars": 305,
@@ -1074,7 +1074,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4962,
+                "stars": 4963,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:17:04.353Z",
+    "last_updated": "2026-09-18T21:44:41.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
