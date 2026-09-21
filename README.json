@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "openkoda",
             "repo": "openkoda",
-            "stars": 1037,
+            "stars": 1038,
             "topics": [
               "business-application-platform",
               "customizable",
@@ -142,7 +142,7 @@
                 "open_issues": 106,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15956,
+                "stars": 15975,
                 "topics": [
                   "ai",
                   "authentication",
@@ -181,7 +181,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-20T08:15:05Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
                 "stars": 4935,
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4512,
+                "stars": 4514,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -305,7 +305,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2363,
+                "stars": 2365,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13077,
+                "stars": 13079,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7719,
+                "stars": 7720,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -907,12 +907,12 @@
                 "homepage": "https://electrik.dev",
                 "id": 539105794,
                 "language": "PHP",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-10T07:12:38Z",
+                "license": "MIT",
+                "last_commit": "2026-09-21T05:42:08Z",
                 "open_issues": 0,
                 "owner": "electrikhq",
                 "repo": "electrik",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "billing",
                   "laravel",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:39:30.004Z",
+    "last_updated": "2026-09-21T22:39:05.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1354,7 +1354,7 @@
       "open_issues": 13,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3084,
+      "stars": 3083,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
