@@ -138,11 +138,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-08-06T11:28:44Z",
-                "open_issues": 106,
+                "last_commit": "2026-09-22T11:19:05Z",
+                "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15975,
+                "stars": 15987,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4935,
+                "stars": 4936,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -340,7 +340,7 @@
                 "open_issues": 7,
                 "owner": "SimonHoiberg",
                 "repo": "saas-template",
-                "stars": 787,
+                "stars": 786,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -701,7 +701,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 812,
+                "stars": 813,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -731,7 +731,7 @@
                 "open_issues": 2,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 601,
+                "stars": 603,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1074,7 +1074,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4963,
+                "stars": 4962,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:39:05.302Z",
+    "last_updated": "2026-09-22T22:19:40.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
