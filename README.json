@@ -142,7 +142,7 @@
                 "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15987,
+                "stars": 15992,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4936,
+                "stars": 4937,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -305,7 +305,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -728,7 +728,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T05:40:40Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
                 "stars": 603,
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:19:40.725Z",
+    "last_updated": "2026-09-23T22:22:46.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
