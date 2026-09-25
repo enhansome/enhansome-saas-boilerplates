@@ -142,7 +142,7 @@
                 "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 15996,
+                "stars": 16008,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4938,
+                "stars": 4939,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13079,
+                "stars": 13081,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -731,7 +731,7 @@
                 "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 602,
+                "stars": 603,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:33:37.864Z",
+    "last_updated": "2026-09-25T22:32:49.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
