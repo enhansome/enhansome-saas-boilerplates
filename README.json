@@ -142,7 +142,7 @@
                 "open_issues": 106,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16017,
+                "stars": 16019,
                 "topics": [
                   "ai",
                   "authentication",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13082,
+                "stars": 13081,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7720,
+                "stars": 7721,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -731,7 +731,7 @@
                 "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1192,7 +1192,7 @@
                 "open_issues": 10,
                 "owner": "tarunvelli",
                 "repo": "rails-tabler-starter",
-                "stars": 203,
+                "stars": 202,
                 "topics": [
                   "admin-dashboard",
                   "admin-panel",
@@ -1267,7 +1267,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "ai",
               "boilerplate",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:23:12.068Z",
+    "last_updated": "2026-09-28T23:51:33.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1354,7 +1354,7 @@
       "open_issues": 15,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3084,
+      "stars": 3085,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
