@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "openkoda",
             "repo": "openkoda",
-            "stars": 1038,
+            "stars": 1040,
             "topics": [
               "business-application-platform",
               "customizable",
@@ -142,7 +142,7 @@
                 "open_issues": 106,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16019,
+                "stars": 16028,
                 "topics": [
                   "ai",
                   "authentication",
@@ -263,7 +263,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2905,
+                "stars": 2904,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2366,
+                "stars": 2368,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13081,
+                "stars": 13082,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7721,
+                "stars": 7722,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -1074,7 +1074,7 @@
                 "open_issues": 269,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4963,
+                "stars": 4964,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:51:33.442Z",
+    "last_updated": "2026-09-29T23:02:53.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
