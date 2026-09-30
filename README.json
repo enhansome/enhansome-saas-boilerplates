@@ -142,7 +142,7 @@
                 "open_issues": 106,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16028,
+                "stars": 16030,
                 "topics": [
                   "ai",
                   "authentication",
@@ -305,7 +305,7 @@
                 "open_issues": 35,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1830,
+                "stars": 1829,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13082,
+                "stars": 13081,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +674,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7722,
+                "stars": 7721,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -1154,7 +1154,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:02:53.399Z",
+    "last_updated": "2026-09-30T23:05:49.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1351,7 +1351,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3085,
