@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Openkoda https://github.com/openkoda/openkoda",
-          "description": null,
+          "description": "openkoda/openkoda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "ZukovLabs SaaS Starter https://github.com/zukovlabs/enterprise-java-saas-starter-kit",
-          "description": null,
+          "description": "zukovlabs/enterprise-java-saas-starter-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -129,7 +129,7 @@
             {
               "node_type": "item",
               "title": "OpenSaaS.sh - Open Source https://opensaas.sh/?utm_source=awesome-saas-boilerplates",
-              "description": null,
+              "description": "wasp-lang/open-saas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,7 +142,7 @@
                 "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16044,
+                "stars": 16045,
                 "topics": [
                   "ai",
                   "authentication",
@@ -171,7 +171,7 @@
             {
               "node_type": "item",
               "title": "Enterprise-ready SaaS Starter Kit. Open Source. https://github.com/boxyhq/saas-starter-kit",
-              "description": null,
+              "description": "boxyhq/saas-starter-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas",
-              "description": null,
+              "description": "async-labs/saas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -250,7 +250,7 @@
             {
               "node_type": "item",
               "title": "ULTIMATE BACKEND. Open Source. https://github.com/juicycleff/ultimate-backend",
-              "description": null,
+              "description": "juicycleff/ultimate-backend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -292,7 +292,7 @@
             {
               "node_type": "item",
               "title": "Graphile Starter - https://github.com/graphile/starter",
-              "description": null,
+              "description": "graphile/starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -327,7 +327,7 @@
             {
               "node_type": "item",
               "title": "AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template",
-              "description": null,
+              "description": "SimonHoiberg/saas-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -348,7 +348,7 @@
             {
               "node_type": "item",
               "title": "SAAS-Starter-Kit - https://github.com/Saas-Starter-Kit/Saas-Kit-prisma",
-              "description": null,
+              "description": "Saas-Starter-Kit/Saas-Kit-prisma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -384,7 +384,7 @@
             {
               "node_type": "item",
               "title": "SaaSgear. Open Source. https://github.com/JSLancerTeam/saasgear",
-              "description": null,
+              "description": "JSLancerTeam/saasgear",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -419,7 +419,7 @@
             {
               "node_type": "item",
               "title": "SaaStr. Open Source. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate",
-              "description": null,
+              "description": "aloysius-tim/saas-react-starter-kit-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -451,7 +451,7 @@
             {
               "node_type": "item",
               "title": "SaaS Starter. Open Source. https://github.com/cedrickchee/saas-starter",
-              "description": null,
+              "description": "cedrickchee/saas-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -479,7 +479,7 @@
             {
               "node_type": "item",
               "title": "ALPack - https://github.com/apptension/ALPack",
-              "description": null,
+              "description": "apptension/ALPack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -500,7 +500,7 @@
             {
               "node_type": "item",
               "title": "Next.js SaaS Boilerplate - Open Source Next.js 16 starter with auth (Better Auth), Stripe billing, admin dashboard, blog CMS, RBAC, email system, and 50+ shadcn/ui components https://github.com/habibjutt/nextjs_boilerplate",
-              "description": null,
+              "description": "habibjutt/nextjs_boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
             {
               "node_type": "item",
               "title": "Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger",
-              "description": null,
+              "description": "umar0645/nodejs-sequelize-auth-boilerplate-with-swagger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -565,7 +565,7 @@
             {
               "node_type": "item",
               "title": "CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter",
-              "description": null,
+              "description": "scosman/CMSaasStarter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -619,7 +619,7 @@
             {
               "node_type": "item",
               "title": "Next.js Boilerplate - Open Source https://github.com/ixartz/Next-js-Boilerplate",
-              "description": null,
+              "description": "ixartz/Next-js-Boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -661,7 +661,7 @@
             {
               "node_type": "item",
               "title": "Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments",
-              "description": null,
+              "description": "vercel/nextjs-subscription-payments",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -688,7 +688,7 @@
             {
               "node_type": "item",
               "title": "Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter",
-              "description": null,
+              "description": "KolbySisk/next-supabase-stripe-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -718,7 +718,7 @@
             {
               "node_type": "item",
               "title": "Velobase Harness - https://github.com/velobase/velobase-harness",
-              "description": null,
+              "description": "velobase/velobase-harness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -760,7 +760,7 @@
             {
               "node_type": "item",
               "title": "No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate",
-              "description": null,
+              "description": "nocode-js/nocode-platform-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -792,7 +792,7 @@
             {
               "node_type": "item",
               "title": "NextJS 14 SaaS Starter with Lucia and Stripe https://github.com/juliankoehn/nextjs-saas-starter",
-              "description": null,
+              "description": "juliankoehn/nextjs-saas-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -823,7 +823,7 @@
             {
               "node_type": "item",
               "title": "Agentic React Template - Open Source Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS https://github.com/iscale-llc/agentic-react-nextjs-shadcn",
-              "description": null,
+              "description": "jasonakatiff/agentic-react-nextjs-shadcn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -870,7 +870,7 @@
             {
               "node_type": "item",
               "title": "saas-boilerplate - Open Source https://github.com/miracuthbert/saas-boilerplate",
-              "description": null,
+              "description": "miracuthbert/saas-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -899,7 +899,7 @@
             {
               "node_type": "item",
               "title": "Electrik - https://github.com/electrikhq/electrik",
-              "description": null,
+              "description": "electrikhq/electrik",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -933,7 +933,7 @@
             {
               "node_type": "item",
               "title": "SaasForgeKit Lite - https://github.com/SaasForgeKit/saasforgekit-lite",
-              "description": null,
+              "description": "SaasForgeKit/saasforgekit-lite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -967,7 +967,7 @@
             {
               "node_type": "item",
               "title": "Django SaaS - Open source https://github.com/PaulleDemon/Django-SAAS-Boilerplate",
-              "description": null,
+              "description": "PaulleDemon/Django-SAAS-Boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -994,7 +994,7 @@
             {
               "node_type": "item",
               "title": "djangorocket - https://github.com/ernestofgonzalez/djangorocket",
-              "description": null,
+              "description": "ernestofgonzalez/djangorocket",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1025,7 +1025,7 @@
             {
               "node_type": "item",
               "title": "YaSaas - https://github.com/roperi/yasaas/",
-              "description": null,
+              "description": "roperi/YaSaas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1061,7 +1061,7 @@
             {
               "node_type": "item",
               "title": "Flask App Builder - Open Source https://github.com/dpgaspar/Flask-AppBuilder",
-              "description": null,
+              "description": "dpgaspar/Flask-AppBuilder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1092,7 +1092,7 @@
             {
               "node_type": "item",
               "title": "Ignite - https://github.com/sumukh/ignite",
-              "description": null,
+              "description": "Sumukh/Ignite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "LastSaaS. Go + React + MongoDB. Open Source https://github.com/jonradoff/lastsaas",
-              "description": null,
+              "description": "jonradoff/lastsaas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1179,7 +1179,7 @@
             {
               "node_type": "item",
               "title": "Rails Tabler Starter - https://github.com/tarunvelli/rails-tabler-starter",
-              "description": null,
+              "description": "tarunvelli/rails-tabler-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1227,7 +1227,7 @@
         {
           "node_type": "item",
           "title": "SupaNuxt - Open Source https://github.com/JavascriptMick/supanuxt-saas",
-          "description": null,
+          "description": "JavascriptMick/supanuxt-saas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1254,7 +1254,7 @@
         {
           "node_type": "item",
           "title": "Extro - Open source browser extension starter kit https://github.com/turbostarter/extro",
-          "description": null,
+          "description": "turbostarter/extro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1298,7 +1298,7 @@
             {
               "node_type": "item",
               "title": "Terraform Starter - Open Source https://github.com/DmitrySadovnikov/terraform-starter",
-              "description": null,
+              "description": "DmitrySadovnikov/terraform-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:05:30.555Z",
+    "last_updated": "2026-10-03T05:05:57.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
