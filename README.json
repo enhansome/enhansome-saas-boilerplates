@@ -142,7 +142,7 @@
                 "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16050,
+                "stars": 16055,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +184,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4940,
+                "stars": 4941,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -340,7 +340,7 @@
                 "open_issues": 7,
                 "owner": "SimonHoiberg",
                 "repo": "saas-template",
-                "stars": 785,
+                "stars": 784,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -632,7 +632,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13078,
+                "stars": 13079,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -980,7 +980,7 @@
                 "open_issues": 2,
                 "owner": "PaulleDemon",
                 "repo": "Django-SAAS-Boilerplate",
-                "stars": 293,
+                "stars": 292,
                 "topics": [
                   "django",
                   "django-saas-starter",
@@ -1003,8 +1003,8 @@
                 "id": 585231229,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:08:09Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-04T13:43:40Z",
+                "open_issues": 4,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
                 "stars": 208,
@@ -1267,7 +1267,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "ai",
               "boilerplate",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:14:29.166Z",
+    "last_updated": "2026-10-04T22:23:13.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1351,7 +1351,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3084,
