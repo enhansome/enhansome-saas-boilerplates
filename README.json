@@ -138,11 +138,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-07T16:21:26Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-08T14:33:19Z",
+                "open_issues": 109,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16067,
+                "stars": 16073,
                 "topics": [
                   "ai",
                   "authentication",
@@ -223,7 +223,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4518,
+                "stars": 4519,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -340,7 +340,7 @@
                 "open_issues": 7,
                 "owner": "SimonHoiberg",
                 "repo": "saas-template",
-                "stars": 784,
+                "stars": 783,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -578,7 +578,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2370,
+                "stars": 2369,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -628,11 +628,11 @@
                 "id": 281769216,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:40:20Z",
+                "last_commit": "2026-10-08T00:16:35Z",
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13077,
+                "stars": 13079,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -1070,7 +1070,7 @@
                 "id": 14265145,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-16T13:08:55Z",
+                "last_commit": "2026-10-08T14:27:50Z",
                 "open_issues": 270,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:37:50.118Z",
+    "last_updated": "2026-10-08T23:48:11.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1354,7 +1354,7 @@
       "open_issues": 22,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3083,
+      "stars": 3084,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
