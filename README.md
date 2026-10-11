@@ -13,7 +13,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Java
 
 * Openkoda <https://github.com/openkoda/openkoda> ⭐ 1,040 | 🐛 21 | 🌐 Java | 📅 2025-02-19 [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda) ⭐ 1,040 | 🐛 21 | 🌐 Java | 📅 2025-02-19
-* ZukovLabs SaaS Starter <https://github.com/zukovlabs/enterprise-java-saas-starter-kit> ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2026-06-29
+* ZukovLabs SaaS Starter <https://github.com/zukovlabs/enterprise-java-saas-starter-kit> ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2026-06-29
 * AuthAndPay <https://authandpay.com/>
 * easyShip pro - <https://www.easyship.pro>
 * Springular <https://springular.io/>
@@ -28,8 +28,8 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js
 
-* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,077 | 🐛 109 | 🌐 MDX | 📅 2026-10-09
-* Enterprise-ready SaaS Starter Kit. **Open Source**. <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,942 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,942 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-20
+* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,084 | 🐛 110 | 🌐 MDX | 📅 2026-10-09
+* Enterprise-ready SaaS Starter Kit. **Open Source**. <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,943 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,943 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-20
 * SaaS Boilerplate by Async Labs - <https://github.com/async-labs/saas> ⭐ 4,519 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas) ⭐ 4,519 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21
 * ULTIMATE BACKEND. **Open Source**. <https://github.com/juicycleff/ultimate-backend> ⭐ 2,905 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,905 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
 * Graphile Starter - <https://github.com/graphile/starter> ⭐ 1,829 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter) ⭐ 1,829 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09
@@ -98,8 +98,8 @@ List of SaaS boilerplates (starter kits) by stack
 
 * Next.js Boilerplate - **Open Source** <https://github.com/ixartz/Next-js-Boilerplate> ⭐ 13,080 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,080 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08
 * Next.js Subscription Payments Starter by Vercel - <https://github.com/vercel/nextjs-subscription-payments> ⚠️ Archived [![Stars](https://img.shields.io/github/stars/vercel/nextjs-subscription-payments.svg)](https://github.com/vercel/nextjs-subscription-payments) ⚠️ Archived
-* Next.js Supabase Stripe Starter - <https://github.com/KolbySisk/next-supabase-stripe-starter> ⭐ 815 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15 [![Stars](https://img.shields.io/github/stars/KolbySisk/next-supabase-stripe-starter.svg)](https://github.com/KolbySisk/next-supabase-stripe-starter) ⭐ 815 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15
-* Velobase Harness - <https://github.com/velobase/velobase-harness> ⭐ 608 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-26 [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness) ⭐ 608 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-26
+* Next.js Supabase Stripe Starter - <https://github.com/KolbySisk/next-supabase-stripe-starter> ⭐ 816 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15 [![Stars](https://img.shields.io/github/stars/KolbySisk/next-supabase-stripe-starter.svg)](https://github.com/KolbySisk/next-supabase-stripe-starter) ⭐ 816 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15
+* Velobase Harness - <https://github.com/velobase/velobase-harness> ⭐ 609 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-26 [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness) ⭐ 609 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-26
 * No-Code Platform Boilerplate - <https://github.com/nocode-js/nocode-platform-boilerplate> ⭐ 234 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05 [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate) ⭐ 234 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05
 * NextJS 14 SaaS Starter with Lucia and Stripe <https://github.com/juliankoehn/nextjs-saas-starter> ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-22 [![Stars](https://img.shields.io/github/stars/juliankoehn/nextjs-saas-starter.svg)](https://github.com/juliankoehn/nextjs-saas-starter) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-22
 * Agentic React Template - **Open Source** Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS <https://github.com/iscale-llc/agentic-react-nextjs-shadcn> ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-03 [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-03
@@ -249,7 +249,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Go
 
-* LastSaaS. Go + React + MongoDB. **Open Source** <https://github.com/jonradoff/lastsaas> ⭐ 172 | 🐛 2 | 🌐 Go | 📅 2026-03-05 [![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas.svg)](https://github.com/jonradoff/lastsaas) ⭐ 172 | 🐛 2 | 🌐 Go | 📅 2026-03-05
+* LastSaaS. Go + React + MongoDB. **Open Source** <https://github.com/jonradoff/lastsaas> ⭐ 173 | 🐛 2 | 🌐 Go | 📅 2026-03-05 [![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas.svg)](https://github.com/jonradoff/lastsaas) ⭐ 173 | 🐛 2 | 🌐 Go | 📅 2026-03-05
 * Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates\&utm_medium=catalog)
 * GoShip -<https://goship.run/>
 * SaaS Startup Kit. Golang - **Open Source** <https://saasstartupkit.com/>
@@ -300,4 +300,4 @@ List of SaaS boilerplates (starter kits) by stack
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
