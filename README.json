@@ -139,11 +139,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-09T12:00:54Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-13T11:44:34Z",
+                "open_issues": 110,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16091,
+                "stars": 16096,
                 "topics": [
                   "ai",
                   "authentication",
@@ -182,7 +182,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-20T08:15:05Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
                 "stars": 4947,
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4521,
+                "stars": 4523,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -306,7 +306,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -633,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13081,
+                "stars": 13084,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7719,
+                "stars": 7718,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -728,11 +728,11 @@
                 "id": 1203556545,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T07:07:55Z",
+                "last_commit": "2026-10-13T08:06:15Z",
                 "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1008,7 +1008,7 @@
                 "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 208,
+                "stars": 207,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -1075,7 +1075,7 @@
                 "open_issues": 270,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4962,
+                "stars": 4963,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1155,7 +1155,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1264,7 +1264,7 @@
             "id": 881051345,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-21T10:28:24Z",
+            "last_commit": "2026-10-13T12:10:35Z",
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:28:17.296Z",
+    "last_updated": "2026-10-13T23:19:45.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1352,10 +1352,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3087,
+      "stars": 3086,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
