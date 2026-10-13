@@ -40,12 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Production-ready SaaS boilerplate. Java 21, Spring Boot 3.4, Angular 22, MSSQL & Docker. Community Edition.",
+            "description": "Production-ready SaaS boilerplate. Java 21, Spring Boot 3.4, Angular 22, PostgreSQL17 & Docker. Community Edition.",
             "homepage": "https://zukovlabs.com/",
             "id": 1154978096,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-06-29T16:09:30Z",
+            "last_commit": "2026-10-12T15:23:20Z",
             "open_issues": 0,
             "owner": "zukovlabs",
             "repo": "enterprise-java-saas-starter-kit",
@@ -62,7 +62,8 @@
               "java-21",
               "junit5",
               "jwt",
-              "mssql",
+              "postgres",
+              "postgresql17",
               "saas-boilerplate",
               "spring-security",
               "stripe-payments"
@@ -139,10 +140,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-10-09T12:00:54Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16084,
+                "stars": 16091,
                 "topics": [
                   "ai",
                   "authentication",
@@ -184,7 +185,7 @@
                 "open_issues": 49,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4943,
+                "stars": 4947,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -223,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4519,
+                "stars": 4521,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -632,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13080,
+                "stars": 13081,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -674,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7718,
+                "stars": 7719,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -701,7 +702,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 816,
+                "stars": 817,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -731,7 +732,7 @@
                 "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 609,
+                "stars": 611,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1342,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:59:26.204Z",
+    "last_updated": "2026-10-13T01:28:17.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1354,7 +1355,7 @@
       "open_issues": 25,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3084,
+      "stars": 3087,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
