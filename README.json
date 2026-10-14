@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "openkoda",
             "repo": "openkoda",
-            "stars": 1040,
+            "stars": 1039,
             "topics": [
               "business-application-platform",
               "customizable",
@@ -140,10 +140,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-10-13T11:44:34Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16096,
+                "stars": 16099,
                 "topics": [
                   "ai",
                   "authentication",
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4523,
+                "stars": 4525,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -264,7 +264,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2905,
+                "stars": 2904,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -362,7 +362,7 @@
                 "open_issues": 1,
                 "owner": "Saas-Starter-Kit",
                 "repo": "Saas-Kit-prisma",
-                "stars": 625,
+                "stars": 624,
                 "topics": [
                   "casl",
                   "next-auth",
@@ -493,7 +493,7 @@
                 "open_issues": 0,
                 "owner": "apptension",
                 "repo": "ALPack",
-                "stars": 29,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -633,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13084,
+                "stars": 13083,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7718,
+                "stars": 7717,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -732,7 +732,7 @@
                 "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 612,
+                "stars": 613,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -884,7 +884,7 @@
                 "open_issues": 9,
                 "owner": "miracuthbert",
                 "repo": "saas-boilerplate",
-                "stars": 383,
+                "stars": 382,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -981,7 +981,7 @@
                 "open_issues": 2,
                 "owner": "PaulleDemon",
                 "repo": "Django-SAAS-Boilerplate",
-                "stars": 292,
+                "stars": 291,
                 "topics": [
                   "django",
                   "django-saas-starter",
@@ -1008,7 +1008,7 @@
                 "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 207,
+                "stars": 206,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -1039,7 +1039,7 @@
                 "open_issues": 1,
                 "owner": "roperi",
                 "repo": "YaSaas",
-                "stars": 125,
+                "stars": 124,
                 "topics": [
                   "aws",
                   "django",
@@ -1075,7 +1075,7 @@
                 "open_issues": 270,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4963,
+                "stars": 4962,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1155,7 +1155,7 @@
                 "open_issues": 2,
                 "owner": "jonradoff",
                 "repo": "lastsaas",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1241,7 +1241,7 @@
             "open_issues": 6,
             "owner": "JavascriptMick",
             "repo": "supanuxt-saas",
-            "stars": 519,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:34.117Z"
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:19:45.823Z",
+    "last_updated": "2026-10-14T22:24:43.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
