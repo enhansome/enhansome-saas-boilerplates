@@ -139,11 +139,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-15T13:01:06Z",
-                "open_issues": 112,
+                "last_commit": "2026-10-16T15:27:40Z",
+                "open_issues": 113,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16105,
+                "stars": 16112,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4950,
+                "stars": 4951,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4526,
+                "stars": 4527,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -514,7 +514,7 @@
                 "open_issues": 40,
                 "owner": "habibjutt",
                 "repo": "nextjs_boilerplate",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "admin-dashboard",
                   "authentication",
@@ -633,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13086,
+                "stars": 13087,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7715,
+                "stars": 7714,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -1142,7 +1142,7 @@
             {
               "node_type": "item",
               "title": "LastSaaS. Go + React + MongoDB. Open Source https://github.com/jonradoff/lastsaas",
-              "description": "jonradoff/lastsaas",
+              "description": "metavert-io/lastsaas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1153,9 +1153,9 @@
                 "license": "MIT",
                 "last_commit": "2026-03-05T18:12:51Z",
                 "open_issues": 2,
-                "owner": "jonradoff",
+                "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T22:29:44.584Z",
+    "last_updated": "2026-10-16T22:08:48.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1352,7 +1352,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3086,
