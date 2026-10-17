@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "openkoda",
             "repo": "openkoda",
-            "stars": 1039,
+            "stars": 1041,
             "topics": [
               "business-application-platform",
               "customizable",
@@ -140,10 +140,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-10-16T15:27:40Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16112,
+                "stars": 16119,
                 "topics": [
                   "ai",
                   "authentication",
@@ -306,7 +306,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1830,
+                "stars": 1831,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7714,
+                "stars": 7711,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -702,7 +702,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 817,
+                "stars": 818,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -774,7 +774,7 @@
                 "open_issues": 0,
                 "owner": "nocode-js",
                 "repo": "nocode-platform-boilerplate",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "boilerplate",
                   "lowcode",
@@ -1151,7 +1151,7 @@
                 "id": 1164156051,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-03-05T18:12:51Z",
+                "last_commit": "2026-10-17T00:33:01Z",
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:08:48.733Z",
+    "last_updated": "2026-10-17T21:32:44.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1355,7 +1355,7 @@
       "open_issues": 27,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3086,
+      "stars": 3085,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
