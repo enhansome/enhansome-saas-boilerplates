@@ -28,8 +28,8 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js
 
-* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,119 | 🐛 114 | 🌐 MDX | 📅 2026-10-16
-* Enterprise-ready SaaS Starter Kit. **Open Source**. <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,951 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,951 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20
+* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,118 | 🐛 114 | 🌐 MDX | 📅 2026-10-16
+* Enterprise-ready SaaS Starter Kit. **Open Source**. <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,950 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,950 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20
 * SaaS Boilerplate by Async Labs - <https://github.com/async-labs/saas> ⭐ 4,527 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas) ⭐ 4,527 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21
 * ULTIMATE BACKEND. **Open Source**. <https://github.com/juicycleff/ultimate-backend> ⭐ 2,905 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,905 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
 * Graphile Starter - <https://github.com/graphile/starter> ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter) ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09
@@ -81,7 +81,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## SvelteKit
 
-* CMSaasStarter - <https://github.com/CriticalMoments/CMSaasStarter> ⭐ 2,369 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21
+* CMSaasStarter - <https://github.com/CriticalMoments/CMSaasStarter> ⭐ 2,368 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21
 * FastestEngineer - <https://fastest.engineer>
 * Just Ship - <https://justship.today>
 * SaaS Starter / CMSaasStarter - <https://saasstarter.work>
@@ -96,7 +96,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Next.js
 
-* Next.js Boilerplate - **Open Source** <https://github.com/ixartz/Next-js-Boilerplate> ⭐ 13,087 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,087 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08
+* Next.js Boilerplate - **Open Source** <https://github.com/ixartz/Next-js-Boilerplate> ⭐ 13,086 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,086 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08
 * Next.js Subscription Payments Starter by Vercel - <https://github.com/vercel/nextjs-subscription-payments> ⚠️ Archived [![Stars](https://img.shields.io/github/stars/vercel/nextjs-subscription-payments.svg)](https://github.com/vercel/nextjs-subscription-payments) ⚠️ Archived
 * Next.js Supabase Stripe Starter - <https://github.com/KolbySisk/next-supabase-stripe-starter> ⭐ 818 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15 [![Stars](https://img.shields.io/github/stars/KolbySisk/next-supabase-stripe-starter.svg)](https://github.com/KolbySisk/next-supabase-stripe-starter) ⭐ 818 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15
 * Velobase Harness - <https://github.com/velobase/velobase-harness> ⭐ 613 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-15 [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness) ⭐ 613 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-15
@@ -300,4 +300,4 @@ List of SaaS boilerplates (starter kits) by stack
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
