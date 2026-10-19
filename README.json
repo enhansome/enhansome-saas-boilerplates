@@ -139,11 +139,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-16T15:27:40Z",
+                "last_commit": "2026-10-19T14:50:17Z",
                 "open_issues": 114,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16118,
+                "stars": 16122,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4950,
+                "stars": 4952,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4527,
+                "stars": 4526,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -264,7 +264,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -633,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13086,
+                "stars": 13085,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7710,
+                "stars": 7711,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -913,7 +913,7 @@
                 "open_issues": 0,
                 "owner": "electrikhq",
                 "repo": "electrik",
-                "stars": 308,
+                "stars": 309,
                 "topics": [
                   "billing",
                   "laravel",
@@ -1008,7 +1008,7 @@
                 "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -1241,7 +1241,7 @@
             "open_issues": 6,
             "owner": "JavascriptMick",
             "repo": "supanuxt-saas",
-            "stars": 518,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-29T02:19:34.117Z"
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:37:01.819Z",
+    "last_updated": "2026-10-19T22:56:20.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1352,7 +1352,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3085,

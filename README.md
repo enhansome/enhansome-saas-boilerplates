@@ -28,10 +28,10 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js
 
-* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,118 | 🐛 114 | 🌐 MDX | 📅 2026-10-16
-* Enterprise-ready SaaS Starter Kit. **Open Source**. <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,950 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,950 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20
-* SaaS Boilerplate by Async Labs - <https://github.com/async-labs/saas> ⭐ 4,527 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas) ⭐ 4,527 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21
-* ULTIMATE BACKEND. **Open Source**. <https://github.com/juicycleff/ultimate-backend> ⭐ 2,905 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,905 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
+* OpenSaaS.sh - **Open Source** <https://opensaas.sh/?utm_source=awesome-saas-boilerplates> [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,122 | 🐛 114 | 🌐 MDX | 📅 2026-10-19
+* Enterprise-ready SaaS Starter Kit. **Open Source**. <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,952 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,952 | 🐛 50 | 🌐 TypeScript | 📅 2026-07-20
+* SaaS Boilerplate by Async Labs - <https://github.com/async-labs/saas> ⭐ 4,526 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas) ⭐ 4,526 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21
+* ULTIMATE BACKEND. **Open Source**. <https://github.com/juicycleff/ultimate-backend> ⭐ 2,906 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,906 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
 * Graphile Starter - <https://github.com/graphile/starter> ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter) ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09
 * AWS + React SaaS Template. <https://github.com/SimonHoiberg/saas-template> ⭐ 783 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21 [![Stars](https://img.shields.io/github/stars/SimonHoiberg/saas-template.svg)](https://github.com/SimonHoiberg/saas-template) ⭐ 783 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 * SAAS-Starter-Kit - <https://github.com/Saas-Starter-Kit/Saas-Kit-prisma> ⭐ 624 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28 [![Stars](https://img.shields.io/github/stars/Saas-Starter-Kit/Saas-Kit-prisma.svg)](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) ⭐ 624 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28
@@ -96,7 +96,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Next.js
 
-* Next.js Boilerplate - **Open Source** <https://github.com/ixartz/Next-js-Boilerplate> ⭐ 13,086 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,086 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08
+* Next.js Boilerplate - **Open Source** <https://github.com/ixartz/Next-js-Boilerplate> ⭐ 13,085 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,085 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08
 * Next.js Subscription Payments Starter by Vercel - <https://github.com/vercel/nextjs-subscription-payments> ⚠️ Archived [![Stars](https://img.shields.io/github/stars/vercel/nextjs-subscription-payments.svg)](https://github.com/vercel/nextjs-subscription-payments) ⚠️ Archived
 * Next.js Supabase Stripe Starter - <https://github.com/KolbySisk/next-supabase-stripe-starter> ⭐ 818 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15 [![Stars](https://img.shields.io/github/stars/KolbySisk/next-supabase-stripe-starter.svg)](https://github.com/KolbySisk/next-supabase-stripe-starter) ⭐ 818 | 🐛 21 | 🌐 TypeScript | 📅 2026-04-15
 * Velobase Harness - <https://github.com/velobase/velobase-harness> ⭐ 613 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-15 [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness) ⭐ 613 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-15
@@ -173,7 +173,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Laravel
 
 * saas-boilerplate - **Open Source** <https://github.com/miracuthbert/saas-boilerplate> ⭐ 383 | 🐛 9 | 🌐 PHP | 📅 2023-08-27 [![Stars](https://img.shields.io/github/stars/miracuthbert/saas-boilerplate.svg)](https://github.com/miracuthbert/saas-boilerplate) ⭐ 383 | 🐛 9 | 🌐 PHP | 📅 2023-08-27
-* Electrik - <https://github.com/electrikhq/electrik> ⭐ 308 | 🐛 0 | 🌐 PHP | 📅 2026-09-21
+* Electrik - <https://github.com/electrikhq/electrik> ⭐ 309 | 🐛 0 | 🌐 PHP | 📅 2026-09-21
 * SaasForgeKit Lite - <https://github.com/SaasForgeKit/saasforgekit-lite> ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-11
 * Artiplate - <https://artiplate.co/>
 * Butchr - <https://butchr.dev>
@@ -211,7 +211,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Django
 
 * Django SaaS - **Open source** <https://github.com/PaulleDemon/Django-SAAS-Boilerplate> ⭐ 291 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-26 [![Stars](https://img.shields.io/github/stars/PaulleDemon/Django-SAAS-Boilerplate.svg)](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) ⭐ 291 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-26
-* djangorocket - <https://github.com/ernestofgonzalez/djangorocket> ⭐ 206 | 🐛 3 | 🌐 Python | 📅 2026-10-05
+* djangorocket - <https://github.com/ernestofgonzalez/djangorocket> ⭐ 207 | 🐛 3 | 🌐 Python | 📅 2026-10-05
 * YaSaas - <https://github.com/roperi/yasaas/> ⭐ 124 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-12
 * Carrot Seed - <https://www.cnc.io/en/seed>
 * Django Launch - <https://djangolaun.ch>
@@ -275,7 +275,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 # Nuxt
 
-* SupaNuxt - **Open Source** <https://github.com/JavascriptMick/supanuxt-saas> ⭐ 518 | 🐛 6 | 🌐 Vue | 📅 2024-02-25 [![Stars](https://img.shields.io/github/stars/JavascriptMick/supanuxt-saas.svg)](https://github.com/JavascriptMick/supanuxt-saas) ⭐ 518 | 🐛 6 | 🌐 Vue | 📅 2024-02-25
+* SupaNuxt - **Open Source** <https://github.com/JavascriptMick/supanuxt-saas> ⭐ 517 | 🐛 6 | 🌐 Vue | 📅 2024-02-25 [![Stars](https://img.shields.io/github/stars/JavascriptMick/supanuxt-saas.svg)](https://github.com/JavascriptMick/supanuxt-saas) ⭐ 517 | 🐛 6 | 🌐 Vue | 📅 2024-02-25
 * Nuxt Starter AI - <https://nuxtstarter.ai>
 * Nuxtz  - <https://www.nuxtz.com/>
 * SaaS-Boilerplate.dev - <https://saas-boilerplate.dev>
@@ -300,4 +300,4 @@ List of SaaS boilerplates (starter kits) by stack
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
