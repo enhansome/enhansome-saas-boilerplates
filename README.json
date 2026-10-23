@@ -10,12 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open source business application platform for fast development",
-            "homepage": "https://openkoda.com/",
+            "description": "Business apps you can change by asking.",
+            "homepage": "https://superkoda.com/",
             "id": 629428029,
-            "language": "Java",
-            "license": "MIT",
-            "last_commit": "2026-10-22T10:27:34Z",
+            "language": null,
+            "license": null,
+            "last_commit": "2026-10-23T12:10:37Z",
             "open_issues": 21,
             "owner": "superkoda",
             "repo": "superkoda",
@@ -139,11 +139,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-19T14:50:17Z",
-                "open_issues": 115,
+                "last_commit": "2026-10-23T20:28:22Z",
+                "open_issues": 113,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16141,
+                "stars": 16147,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4958,
+                "stars": 4961,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -579,7 +579,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2367,
+                "stars": 2369,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -633,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13085,
+                "stars": 13087,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -732,7 +732,7 @@
                 "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 614,
+                "stars": 616,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -981,7 +981,7 @@
                 "open_issues": 2,
                 "owner": "PaulleDemon",
                 "repo": "Django-SAAS-Boilerplate",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "django",
                   "django-saas-starter",
@@ -1072,7 +1072,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-22T13:08:52Z",
-                "open_issues": 271,
+                "open_issues": 272,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
                 "stars": 4961,
@@ -1155,7 +1155,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:30:22.324Z",
+    "last_updated": "2026-10-23T22:24:08.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1355,7 +1355,7 @@
       "open_issues": 31,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3083,
+      "stars": 3085,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
