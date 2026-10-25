@@ -143,7 +143,7 @@
                 "open_issues": 113,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16147,
+                "stars": 16153,
                 "topics": [
                   "ai",
                   "authentication",
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4530,
+                "stars": 4529,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -264,7 +264,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2907,
+                "stars": 2906,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -633,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13088,
+                "stars": 13091,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -1075,7 +1075,7 @@
                 "open_issues": 272,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4961,
+                "stars": 4963,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:41:25.551Z",
+    "last_updated": "2026-10-25T21:56:05.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
