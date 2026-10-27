@@ -139,11 +139,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-26T13:21:15Z",
+                "last_commit": "2026-10-27T20:38:26Z",
                 "open_issues": 110,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16164,
+                "stars": 16172,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4960,
+                "stars": 4959,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:11:22.818Z",
+    "last_updated": "2026-10-27T23:01:21.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1352,7 +1352,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 31,
+      "open_issues": 33,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3085,
