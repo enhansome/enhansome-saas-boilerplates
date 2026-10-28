@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "superkoda",
             "repo": "superkoda",
-            "stars": 1041,
+            "stars": 1040,
             "topics": [
               "business-application-platform",
               "customizable",
@@ -139,11 +139,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-27T20:38:26Z",
-                "open_issues": 110,
+                "last_commit": "2026-10-28T12:21:48Z",
+                "open_issues": 105,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16172,
+                "stars": 16183,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4959,
+                "stars": 4961,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4530,
+                "stars": 4532,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -579,7 +579,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2369,
+                "stars": 2370,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -633,7 +633,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13091,
+                "stars": 13092,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -732,7 +732,7 @@
                 "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 617,
+                "stars": 618,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1075,7 +1075,7 @@
                 "open_issues": 272,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4962,
+                "stars": 4961,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1268,7 +1268,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "ai",
               "boilerplate",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:01:21.640Z",
+    "last_updated": "2026-10-28T23:21:00.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
