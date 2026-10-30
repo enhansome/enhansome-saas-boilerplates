@@ -140,10 +140,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-10-28T12:21:48Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16194,
+                "stars": 16210,
                 "topics": [
                   "ai",
                   "authentication",
@@ -729,7 +729,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T07:10:59Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
                 "stars": 618,
@@ -1075,7 +1075,7 @@
                 "open_issues": 272,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4962,
+                "stars": 4961,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:24:38.995Z",
+    "last_updated": "2026-10-30T23:03:29.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
