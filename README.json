@@ -143,7 +143,7 @@
                 "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16210,
+                "stars": 16224,
                 "topics": [
                   "ai",
                   "authentication",
@@ -264,7 +264,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2906,
+                "stars": 2907,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -306,7 +306,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1831,
+                "stars": 1832,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -702,7 +702,7 @@
                 "open_issues": 21,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 817,
+                "stars": 818,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -1193,7 +1193,7 @@
                 "open_issues": 10,
                 "owner": "tarunvelli",
                 "repo": "rails-tabler-starter",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "admin-dashboard",
                   "admin-panel",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:03:29.066Z",
+    "last_updated": "2026-10-31T22:37:29.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
