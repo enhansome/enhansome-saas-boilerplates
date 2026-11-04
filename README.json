@@ -143,7 +143,7 @@
                 "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16240,
+                "stars": 16243,
                 "topics": [
                   "ai",
                   "authentication",
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4533,
+                "stars": 4534,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -264,7 +264,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2907,
+                "stars": 2906,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -633,7 +633,7 @@
                 "open_issues": 6,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13093,
+                "stars": 13092,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7709,
+                "stars": 7708,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -1008,7 +1008,7 @@
                 "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:40:55.606Z",
+    "last_updated": "2026-11-04T00:01:53.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
