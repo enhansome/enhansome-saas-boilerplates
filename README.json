@@ -143,7 +143,7 @@
                 "open_issues": 107,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16243,
+                "stars": 16258,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4966,
+                "stars": 4968,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -398,7 +398,7 @@
                 "open_issues": 25,
                 "owner": "JSLancerTeam",
                 "repo": "saasgear",
-                "stars": 368,
+                "stars": 367,
                 "topics": [
                   "boilerplate",
                   "mailgun",
@@ -579,7 +579,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2372,
+                "stars": 2371,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -732,7 +732,7 @@
                 "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 618,
+                "stars": 620,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:01:53.522Z",
+    "last_updated": "2026-11-05T00:26:42.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
