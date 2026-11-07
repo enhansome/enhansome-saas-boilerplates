@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "superkoda",
             "repo": "superkoda",
-            "stars": 1040,
+            "stars": 1041,
             "topics": [
               "business-application-platform",
               "customizable",
@@ -139,11 +139,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-10-28T12:21:48Z",
-                "open_issues": 108,
+                "last_commit": "2026-11-06T17:29:33Z",
+                "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16271,
+                "stars": 16279,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4971,
+                "stars": 4972,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -264,7 +264,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2905,
+                "stars": 2906,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -633,7 +633,7 @@
                 "open_issues": 6,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13090,
+                "stars": 13089,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7707,
+                "stars": 7708,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -699,7 +699,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-04-15T21:25:58Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
                 "stars": 818,
@@ -732,7 +732,7 @@
                 "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1072,10 +1072,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-05T12:38:50Z",
-                "open_issues": 273,
+                "open_issues": 274,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4962,
+                "stars": 4963,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1155,7 +1155,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:26:18.599Z",
+    "last_updated": "2026-11-07T22:50:06.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1352,10 +1352,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T09:04:49Z",
-      "open_issues": 37,
+      "open_issues": 39,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3086,
+      "stars": 3085,
       "topics": []
     },
     "original_repository_sha": "1a5a439027d1ec2e892a3add24fbe5cf17521a17",
