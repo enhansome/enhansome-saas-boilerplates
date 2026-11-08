@@ -140,10 +140,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-11-06T17:29:33Z",
-                "open_issues": 104,
+                "open_issues": 105,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16279,
+                "stars": 16283,
                 "topics": [
                   "ai",
                   "authentication",
@@ -185,7 +185,7 @@
                 "open_issues": 50,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4972,
+                "stars": 4973,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -224,7 +224,7 @@
                 "open_issues": 20,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4533,
+                "stars": 4532,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -579,7 +579,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2372,
+                "stars": 2373,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -702,7 +702,7 @@
                 "open_issues": 22,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 818,
+                "stars": 819,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -1072,7 +1072,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-05T12:38:50Z",
-                "open_issues": 274,
+                "open_issues": 275,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
                 "stars": 4963,
@@ -1155,7 +1155,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:50:06.541Z",
+    "last_updated": "2026-11-08T22:58:16.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
