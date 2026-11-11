@@ -140,10 +140,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-11-06T17:29:33Z",
-                "open_issues": 107,
+                "open_issues": 111,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16290,
+                "stars": 16292,
                 "topics": [
                   "ai",
                   "authentication",
@@ -221,10 +221,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-03-21T18:07:06Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4532,
+                "stars": 4533,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -362,7 +362,7 @@
                 "open_issues": 1,
                 "owner": "Saas-Starter-Kit",
                 "repo": "Saas-Kit-prisma",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "casl",
                   "next-auth",
@@ -633,7 +633,7 @@
                 "open_issues": 6,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13091,
+                "stars": 13092,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -732,7 +732,7 @@
                 "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 620,
+                "stars": 621,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -913,7 +913,7 @@
                 "open_issues": 0,
                 "owner": "electrikhq",
                 "repo": "electrik",
-                "stars": 310,
+                "stars": 312,
                 "topics": [
                   "billing",
                   "laravel",
@@ -1268,7 +1268,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 413,
+            "stars": 414,
             "topics": [
               "ai",
               "boilerplate",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:17:53.873Z",
+    "last_updated": "2026-11-11T00:06:29.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
