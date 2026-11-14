@@ -254,10 +254,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-11-11T17:08:31Z",
-                "open_issues": 110,
+                "open_issues": 109,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16312,
+                "stars": 16319,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 51,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4977,
+                "stars": 4976,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4536,
+                "stars": 4535,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -420,7 +420,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1833,
+                "stars": 1832,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -624,7 +624,7 @@
                 "id": 1228278734,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T14:57:03Z",
+                "last_commit": "2026-11-14T09:54:56Z",
                 "open_issues": 0,
                 "owner": "BetterTyped",
                 "repo": "hype-stack",
@@ -789,7 +789,7 @@
                 "open_issues": 7,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13095,
+                "stars": 13094,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -831,7 +831,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7709,
+                "stars": 7708,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -885,10 +885,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T07:10:59Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 623,
+                "stars": 624,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -926,7 +926,7 @@
                 "id": 1005988967,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T15:59:06Z",
+                "last_commit": "2026-11-14T14:18:15Z",
                 "open_issues": 3,
                 "owner": "UllrAI",
                 "repo": "SaaS-Starter",
@@ -1502,7 +1502,7 @@
                 "open_issues": 275,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4962,
+                "stars": 4961,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1582,7 +1582,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:23:18.160Z",
+    "last_updated": "2026-11-14T23:10:47.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
