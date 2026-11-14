@@ -215,7 +215,7 @@
                 "open_issues": 11,
                 "owner": "kriasoft",
                 "repo": "react-starter-kit",
-                "stars": 23714,
+                "stars": 23717,
                 "topics": [
                   "better-auth",
                   "boilerplate",
@@ -257,7 +257,7 @@
                 "open_issues": 110,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16304,
+                "stars": 16312,
                 "topics": [
                   "ai",
                   "authentication",
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4535,
+                "stars": 4536,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -1045,7 +1045,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T09:25:30Z",
-                "open_issues": 32,
+                "open_issues": 30,
                 "owner": "Nebutra",
                 "repo": "Nebutra-Sailor",
                 "stars": 5,
@@ -1653,7 +1653,7 @@
                 "id": 864440064,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T13:22:57Z",
+                "last_commit": "2026-11-13T13:23:37Z",
                 "open_issues": 10,
                 "owner": "rex-9",
                 "repo": "rexone-core",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:34:31.250Z",
+    "last_updated": "2026-11-14T00:23:18.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1783,7 +1783,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-11T15:49:43Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3087,
