@@ -215,7 +215,7 @@
                 "open_issues": 11,
                 "owner": "kriasoft",
                 "repo": "react-starter-kit",
-                "stars": 23717,
+                "stars": 23718,
                 "topics": [
                   "better-auth",
                   "boilerplate",
@@ -257,7 +257,7 @@
                 "open_issues": 109,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16319,
+                "stars": 16322,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 51,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4976,
+                "stars": 4975,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -455,7 +455,7 @@
                 "open_issues": 7,
                 "owner": "SimonHoiberg",
                 "repo": "saas-template",
-                "stars": 783,
+                "stars": 782,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T23:10:47.638Z",
+    "last_updated": "2026-11-15T23:25:34.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1783,7 +1783,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-11T15:49:43Z",
-      "open_issues": 1,
+      "open_issues": 3,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3087,

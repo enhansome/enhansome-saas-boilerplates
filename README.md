@@ -26,13 +26,13 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Node.js
 
-* React Starter Kit - <https://github.com/kriasoft/react-starter-kit> ⭐ 23,717 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09 [![Stars](https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg)](https://github.com/kriasoft/react-starter-kit) ⭐ 23,717 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09
-* OpenSaaS.sh - <https://github.com/wasp-lang/open-saas> ⭐ 16,319 | 🐛 109 | 🌐 MDX | 📅 2026-11-11 [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,319 | 🐛 109 | 🌐 MDX | 📅 2026-11-11
-* Enterprise-ready SaaS Starter Kit - <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,976 | 🐛 51 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,976 | 🐛 51 | 🌐 TypeScript | 📅 2026-07-20
+* React Starter Kit - <https://github.com/kriasoft/react-starter-kit> ⭐ 23,718 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09 [![Stars](https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg)](https://github.com/kriasoft/react-starter-kit) ⭐ 23,718 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09
+* OpenSaaS.sh - <https://github.com/wasp-lang/open-saas> ⭐ 16,322 | 🐛 109 | 🌐 MDX | 📅 2026-11-11 [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,322 | 🐛 109 | 🌐 MDX | 📅 2026-11-11
+* Enterprise-ready SaaS Starter Kit - <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,975 | 🐛 51 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,975 | 🐛 51 | 🌐 TypeScript | 📅 2026-07-20
 * SaaS Boilerplate by Async Labs - <https://github.com/async-labs/saas> ⭐ 4,535 | 🐛 19 | 🌐 TypeScript | 📅 2025-03-21 [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas) ⭐ 4,535 | 🐛 19 | 🌐 TypeScript | 📅 2025-03-21
 * ULTIMATE BACKEND - <https://github.com/juicycleff/ultimate-backend> ⭐ 2,907 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,907 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
 * Graphile Starter - <https://github.com/graphile/starter> ⭐ 1,832 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter) ⭐ 1,832 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09
-* AWS + React SaaS Template - <https://github.com/SimonHoiberg/saas-template> ⭐ 783 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21 [![Stars](https://img.shields.io/github/stars/SimonHoiberg/saas-template.svg)](https://github.com/SimonHoiberg/saas-template) ⭐ 783 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
+* AWS + React SaaS Template - <https://github.com/SimonHoiberg/saas-template> ⭐ 782 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21 [![Stars](https://img.shields.io/github/stars/SimonHoiberg/saas-template.svg)](https://github.com/SimonHoiberg/saas-template) ⭐ 782 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
 * SAAS-Starter-Kit - <https://github.com/Saas-Starter-Kit/Saas-Kit-prisma> ⭐ 625 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28 [![Stars](https://img.shields.io/github/stars/Saas-Starter-Kit/Saas-Kit-prisma.svg)](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) ⭐ 625 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28
 * SaaSgear - <https://github.com/JSLancerTeam/saasgear> ⭐ 368 | 🐛 25 | 🌐 TypeScript | 📅 2023-12-24 [![Stars](https://img.shields.io/github/stars/JSLancerTeam/saasgear.svg)](https://github.com/JSLancerTeam/saasgear) ⭐ 368 | 🐛 25 | 🌐 TypeScript | 📅 2023-12-24
 * SaaStr - <https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate> ⭐ 154 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-05 [![Stars](https://img.shields.io/github/stars/aloysius-tim/saas-react-starter-kit-boilerplate.svg)](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) ⭐ 154 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-05
@@ -304,4 +304,4 @@ List of SaaS boilerplates (starter kits) by stack
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
