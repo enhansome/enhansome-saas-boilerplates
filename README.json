@@ -257,7 +257,7 @@
                 "open_issues": 109,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16322,
+                "stars": 16328,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 51,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4975,
+                "stars": 4973,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -624,7 +624,7 @@
                 "id": 1228278734,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T09:54:56Z",
+                "last_commit": "2026-11-16T15:36:45Z",
                 "open_issues": 0,
                 "owner": "BetterTyped",
                 "repo": "hype-stack",
@@ -735,7 +735,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2375,
+                "stars": 2376,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -789,7 +789,7 @@
                 "open_issues": 7,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13094,
+                "stars": 13096,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -831,7 +831,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7708,
+                "stars": 7709,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -858,7 +858,7 @@
                 "open_issues": 22,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "nextjs-starter",
                   "nextjs-template",
@@ -888,7 +888,7 @@
                 "open_issues": 3,
                 "owner": "velobase",
                 "repo": "velobase-harness",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "ai-agent",
                   "ai-saas",
@@ -1311,7 +1311,7 @@
                 "open_issues": 9,
                 "owner": "miracuthbert",
                 "repo": "saas-boilerplate",
-                "stars": 383,
+                "stars": 384,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -1653,8 +1653,8 @@
                 "id": 864440064,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T13:23:37Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-16T13:24:44Z",
+                "open_issues": 12,
                 "owner": "rex-9",
                 "repo": "rexone-core",
                 "stars": 11,
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:25:34.915Z",
+    "last_updated": "2026-11-17T02:31:32.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1782,14 +1782,14 @@
       "id": 371328045,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-11T15:49:43Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-16T16:37:59Z",
+      "open_issues": 4,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3087,
+      "stars": 3088,
       "topics": []
     },
-    "original_repository_sha": "3ede8105b7cdfdc5c5727524d3b1f1e2b0e21d65",
+    "original_repository_sha": "0910371ca0262b5e60cd15c791974321455868db",
     "enhanced_repository": "enhansome/enhansome-saas-boilerplates",
     "enhanced_repository_description": null,
     "title": "Awesome JVM with stars"
