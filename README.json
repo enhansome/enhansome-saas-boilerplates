@@ -215,7 +215,7 @@
                 "open_issues": 11,
                 "owner": "kriasoft",
                 "repo": "react-starter-kit",
-                "stars": 23718,
+                "stars": 23720,
                 "topics": [
                   "better-auth",
                   "boilerplate",
@@ -254,10 +254,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-11-11T17:08:31Z",
-                "open_issues": 109,
+                "open_issues": 110,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16328,
+                "stars": 16348,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 51,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4973,
+                "stars": 4974,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -735,7 +735,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2376,
+                "stars": 2377,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -789,7 +789,7 @@
                 "open_issues": 7,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13096,
+                "stars": 13095,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -884,8 +884,8 @@
                 "id": 1203556545,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T07:10:59Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-17T10:57:00Z",
+                "open_issues": 4,
                 "owner": "velobase",
                 "repo": "velobase-harness",
                 "stars": 625,
@@ -1337,7 +1337,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-09-21T05:42:08Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "electrikhq",
                 "repo": "electrik",
                 "stars": 312,
@@ -1435,7 +1435,7 @@
                 "open_issues": 3,
                 "owner": "ernestofgonzalez",
                 "repo": "djangorocket",
-                "stars": 208,
+                "stars": 207,
                 "topics": [
                   "boilerplate",
                   "cookiecutter",
@@ -1498,7 +1498,7 @@
                 "id": 14265145,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T12:38:50Z",
+                "last_commit": "2026-11-17T10:17:30Z",
                 "open_issues": 275,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
@@ -1582,7 +1582,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:31:32.007Z",
+    "last_updated": "2026-11-18T01:42:51.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1783,7 +1783,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-16T16:37:59Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3088,
