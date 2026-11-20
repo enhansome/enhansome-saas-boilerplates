@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "superkoda",
             "repo": "superkoda",
-            "stars": 1041,
+            "stars": 1040,
             "topics": [
               "business-application-platform",
               "customizable",
@@ -257,7 +257,7 @@
                 "open_issues": 109,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16372,
+                "stars": 16379,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 52,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4972,
+                "stars": 4971,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -378,7 +378,7 @@
                 "open_issues": 74,
                 "owner": "juicycleff",
                 "repo": "ultimate-backend",
-                "stars": 2908,
+                "stars": 2907,
                 "topics": [
                   "apollo-federation",
                   "backend",
@@ -420,7 +420,7 @@
                 "open_issues": 36,
                 "owner": "graphile",
                 "repo": "starter",
-                "stars": 1832,
+                "stars": 1831,
                 "topics": [
                   "apollo-client",
                   "eslint",
@@ -476,7 +476,7 @@
                 "open_issues": 1,
                 "owner": "Saas-Starter-Kit",
                 "repo": "Saas-Kit-prisma",
-                "stars": 625,
+                "stars": 624,
                 "topics": [
                   "casl",
                   "next-auth",
@@ -735,7 +735,7 @@
                 "open_issues": 14,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
-                "stars": 2376,
+                "stars": 2375,
                 "topics": [
                   "boilerplate",
                   "cloudflare",
@@ -785,11 +785,11 @@
                 "id": 281769216,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T06:15:53Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-19T23:40:54Z",
+                "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13095,
+                "stars": 13093,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -831,7 +831,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7709,
+                "stars": 7708,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -855,7 +855,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-04-15T21:25:58Z",
-                "open_issues": 22,
+                "open_issues": 16,
                 "owner": "KolbySisk",
                 "repo": "next-supabase-stripe-starter",
                 "stars": 820,
@@ -1070,41 +1070,6 @@
                   "typescript",
                   "vibe-coding",
                   "wechat-pay"
-                ]
-              },
-              "first_seen": "2026-11-12T01:35:04.251Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DevFlow - https://github.com/Abderrahim-Allaoui/devflow",
-              "description": "Abderrahim-Allaoui/devflow",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Full-stack kanban SaaS — Next.js 15, Prisma, JWT auth, PostgreSQL/SQLite, Docker | TypeScript",
-                "homepage": null,
-                "id": 1426192753,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-11-12T00:25:44Z",
-                "open_issues": 0,
-                "owner": "Abderrahim-Allaoui",
-                "repo": "devflow",
-                "stars": 1,
-                "topics": [
-                  "docker",
-                  "fullstack",
-                  "jwt",
-                  "kanban",
-                  "nextjs",
-                  "postgresql",
-                  "prisma",
-                  "project",
-                  "react",
-                  "rest-api",
-                  "saas",
-                  "typescript",
-                  "vitest"
                 ]
               },
               "first_seen": "2026-11-12T01:35:04.251Z"
@@ -1340,7 +1305,7 @@
                 "open_issues": 1,
                 "owner": "electrikhq",
                 "repo": "electrik",
-                "stars": 312,
+                "stars": 311,
                 "topics": [
                   "billing",
                   "laravel",
@@ -1498,11 +1463,11 @@
                 "id": 14265145,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T09:38:56Z",
-                "open_issues": 274,
+                "last_commit": "2026-11-19T10:00:13Z",
+                "open_issues": 273,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4962,
+                "stars": 4961,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1582,7 +1547,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1653,8 +1618,8 @@
                 "id": 864440064,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T13:23:22Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-19T13:23:21Z",
+                "open_issues": 13,
                 "owner": "rex-9",
                 "repo": "rexone-core",
                 "stars": 11,
@@ -1710,7 +1675,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 414,
+            "stars": 413,
             "topics": [
               "ai",
               "boilerplate",
@@ -1774,7 +1739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:18:02.467Z",
+    "last_updated": "2026-11-20T01:21:10.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",

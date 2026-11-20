@@ -22,7 +22,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Java
 
-* Openkoda - <https://github.com/openkoda/openkoda> ⭐ 1,041 | 🐛 21 | 📅 2026-10-23 [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda) ⭐ 1,041 | 🐛 21 | 📅 2026-10-23
+* Openkoda - <https://github.com/openkoda/openkoda> ⭐ 1,040 | 🐛 21 | 📅 2026-10-23 [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda) ⭐ 1,040 | 🐛 21 | 📅 2026-10-23
 * ZukovLabs SaaS Starter - <https://github.com/zukovlabs/enterprise-java-saas-starter-kit> ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2026-10-12 [![Stars](https://img.shields.io/github/stars/zukovlabs/enterprise-java-saas-starter-kit.svg)](https://github.com/zukovlabs/enterprise-java-saas-starter-kit) ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2026-10-12
 * PHABDEV - <https://github.com/phabdev/spring-boot-angular-saas-starter-lite> ⭐ 0 | 🐛 1 | 🌐 Java | 📅 2026-09-23 [![Stars](https://img.shields.io/github/stars/phabdev/spring-boot-angular-saas-starter-lite.svg)](https://github.com/phabdev/spring-boot-angular-saas-starter-lite) ⭐ 0 | 🐛 1 | 🌐 Java | 📅 2026-09-23
 * easyShip pro - <https://www.easyship.pro/>
@@ -38,13 +38,13 @@ List of SaaS boilerplates (starter kits) by stack
 ## Node.js
 
 * React Starter Kit - <https://github.com/kriasoft/react-starter-kit> ⭐ 23,723 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09 [![Stars](https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg)](https://github.com/kriasoft/react-starter-kit) ⭐ 23,723 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09
-* OpenSaaS.sh - <https://github.com/wasp-lang/open-saas> ⭐ 16,372 | 🐛 109 | 🌐 MDX | 📅 2026-11-11 [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,372 | 🐛 109 | 🌐 MDX | 📅 2026-11-11
-* Enterprise-ready SaaS Starter Kit - <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,972 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,972 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-20
+* OpenSaaS.sh - <https://github.com/wasp-lang/open-saas> ⭐ 16,379 | 🐛 109 | 🌐 MDX | 📅 2026-11-11 [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas) ⭐ 16,379 | 🐛 109 | 🌐 MDX | 📅 2026-11-11
+* Enterprise-ready SaaS Starter Kit - <https://github.com/boxyhq/saas-starter-kit> ⭐ 4,971 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-20 [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit) ⭐ 4,971 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-20
 * SaaS Boilerplate by Async Labs - <https://github.com/async-labs/saas> ⭐ 4,535 | 🐛 19 | 🌐 TypeScript | 📅 2025-03-21 [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas) ⭐ 4,535 | 🐛 19 | 🌐 TypeScript | 📅 2025-03-21
-* ULTIMATE BACKEND - <https://github.com/juicycleff/ultimate-backend> ⭐ 2,908 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,908 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
-* Graphile Starter - <https://github.com/graphile/starter> ⭐ 1,832 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter) ⭐ 1,832 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09
+* ULTIMATE BACKEND - <https://github.com/juicycleff/ultimate-backend> ⭐ 2,907 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16 [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend) ⭐ 2,907 | 🐛 74 | 🌐 TypeScript | 📅 2026-02-16
+* Graphile Starter - <https://github.com/graphile/starter> ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09 [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter) ⭐ 1,831 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-09
 * AWS + React SaaS Template - <https://github.com/SimonHoiberg/saas-template> ⭐ 782 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21 [![Stars](https://img.shields.io/github/stars/SimonHoiberg/saas-template.svg)](https://github.com/SimonHoiberg/saas-template) ⭐ 782 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-21
-* SAAS-Starter-Kit - <https://github.com/Saas-Starter-Kit/Saas-Kit-prisma> ⭐ 625 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28 [![Stars](https://img.shields.io/github/stars/Saas-Starter-Kit/Saas-Kit-prisma.svg)](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) ⭐ 625 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28
+* SAAS-Starter-Kit - <https://github.com/Saas-Starter-Kit/Saas-Kit-prisma> ⭐ 624 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28 [![Stars](https://img.shields.io/github/stars/Saas-Starter-Kit/Saas-Kit-prisma.svg)](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) ⭐ 624 | 🐛 1 | 🌐 TypeScript | 📅 2024-07-28
 * SaaSgear - <https://github.com/JSLancerTeam/saasgear> ⭐ 368 | 🐛 25 | 🌐 TypeScript | 📅 2023-12-24 [![Stars](https://img.shields.io/github/stars/JSLancerTeam/saasgear.svg)](https://github.com/JSLancerTeam/saasgear) ⭐ 368 | 🐛 25 | 🌐 TypeScript | 📅 2023-12-24
 * SaaStr - <https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate> ⭐ 154 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-05 [![Stars](https://img.shields.io/github/stars/aloysius-tim/saas-react-starter-kit-boilerplate.svg)](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) ⭐ 154 | 🐛 41 | 🌐 JavaScript | 📅 2024-09-05
 * SaaS Starter - <https://github.com/cedrickchee/saas-starter> ⭐ 67 | 🐛 7 | 🌐 JavaScript | 📅 2023-03-02 [![Stars](https://img.shields.io/github/stars/cedrickchee/saas-starter.svg)](https://github.com/cedrickchee/saas-starter) ⭐ 67 | 🐛 7 | 🌐 JavaScript | 📅 2023-03-02
@@ -89,7 +89,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## SvelteKit
 
-* CMSaasStarter - <https://github.com/CriticalMoments/CMSaasStarter> ⭐ 2,376 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 [![Stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter.svg)](https://github.com/CriticalMoments/CMSaasStarter) ⭐ 2,376 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21
+* CMSaasStarter - <https://github.com/CriticalMoments/CMSaasStarter> ⭐ 2,375 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21 [![Stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter.svg)](https://github.com/CriticalMoments/CMSaasStarter) ⭐ 2,375 | 🐛 14 | 🌐 Svelte | 📅 2026-03-21
 * AgenticSaaS - <https://agenticsaas.flawlesslyhuman.com/>
 * FastestEngineer - <https://fastest.engineer/>
 * SaaS Starter / CMSaasStarter - <https://saasstarter.work/>
@@ -104,16 +104,15 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Next.js
 
-* Next.js Boilerplate - <https://github.com/ixartz/Next-js-Boilerplate> ⭐ 13,095 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-01 [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,095 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-01
+* Next.js Boilerplate - <https://github.com/ixartz/Next-js-Boilerplate> ⭐ 13,093 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-19 [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate) ⭐ 13,093 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-19
 * Next.js Subscription Payments Starter by Vercel - <https://github.com/vercel/nextjs-subscription-payments> ⚠️ Archived [![Stars](https://img.shields.io/github/stars/vercel/nextjs-subscription-payments.svg)](https://github.com/vercel/nextjs-subscription-payments) ⚠️ Archived
-* Next.js Supabase Stripe Starter - <https://github.com/KolbySisk/next-supabase-stripe-starter> ⭐ 820 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-15 [![Stars](https://img.shields.io/github/stars/KolbySisk/next-supabase-stripe-starter.svg)](https://github.com/KolbySisk/next-supabase-stripe-starter) ⭐ 820 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-15
+* Next.js Supabase Stripe Starter - <https://github.com/KolbySisk/next-supabase-stripe-starter> ⭐ 820 | 🐛 16 | 🌐 TypeScript | 📅 2026-04-15 [![Stars](https://img.shields.io/github/stars/KolbySisk/next-supabase-stripe-starter.svg)](https://github.com/KolbySisk/next-supabase-stripe-starter) ⭐ 820 | 🐛 16 | 🌐 TypeScript | 📅 2026-04-15
 * Velobase Harness - <https://github.com/velobase/velobase-harness> ⭐ 625 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-17 [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness) ⭐ 625 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-17
 * UllrAI SaaS Starter - <https://github.com/UllrAI/SaaS-Starter> ⭐ 293 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-14 [![Stars](https://img.shields.io/github/stars/UllrAI/SaaS-Starter.svg)](https://github.com/UllrAI/SaaS-Starter) ⭐ 293 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-14
 * No-Code Platform Boilerplate - <https://github.com/nocode-js/nocode-platform-boilerplate> ⭐ 235 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05 [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate) ⭐ 235 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05
 * NextJS 14 SaaS Starter with Lucia and Stripe - <https://github.com/juliankoehn/nextjs-saas-starter> ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-22 [![Stars](https://img.shields.io/github/stars/juliankoehn/nextjs-saas-starter.svg)](https://github.com/juliankoehn/nextjs-saas-starter) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-22
 * Agentic React Template - <https://github.com/iscale-llc/agentic-react-nextjs-shadcn> ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-03 [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-03
 * Nebutra Sailor - <https://github.com/Nebutra/Nebutra-Sailor> ⭐ 5 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-10 [![Stars](https://img.shields.io/github/stars/Nebutra/Nebutra-Sailor.svg)](https://github.com/Nebutra/Nebutra-Sailor) ⭐ 5 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-10
-* DevFlow - <https://github.com/Abderrahim-Allaoui/devflow> ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 [![Stars](https://img.shields.io/github/stars/Abderrahim-Allaoui/devflow.svg)](https://github.com/Abderrahim-Allaoui/devflow) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12
 * MailKite SaaS Starter - <https://github.com/mailkite/saas-startup> ⭐ 1 | 🐛 83 | 🌐 TypeScript | 📅 2026-11-11 [![Stars](https://img.shields.io/github/stars/mailkite/saas-startup.svg)](https://github.com/mailkite/saas-startup) ⭐ 1 | 🐛 83 | 🌐 TypeScript | 📅 2026-11-11
 * Claude AI SaaS Starter - <https://github.com/moukie76/claude-saas-starter> ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 [![Stars](https://img.shields.io/github/stars/moukie76/claude-saas-starter.svg)](https://github.com/moukie76/claude-saas-starter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29
 * Forgekit - <https://github.com/fabwaseem/forgekit> ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16 [![Stars](https://img.shields.io/github/stars/fabwaseem/forgekit.svg)](https://github.com/fabwaseem/forgekit) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16
@@ -126,6 +125,7 @@ List of SaaS boilerplates (starter kits) by stack
 * BoilerPro - <https://boilerpro.co/>
 * Bones - <https://bones.sh/>
 * Builderkit.ai - <https://www.builderkit.ai/>
+* DevFlow - <https://github.com/Abderrahim-Allaoui/devflow> [![Stars](https://img.shields.io/github/stars/Abderrahim-Allaoui/devflow.svg)](https://github.com/Abderrahim-Allaoui/devflow)
 * Dirstarter - <https://dirstarter.com/>
 * Frontend Accelerator - <https://FrontendAccelerator.com/>
 * Gemini AI Suite - <https://skappax.github.io/gemini-ai-suite>
@@ -192,7 +192,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Laravel
 
 * saas-boilerplate - <https://github.com/miracuthbert/saas-boilerplate> ⭐ 384 | 🐛 9 | 🌐 PHP | 📅 2023-08-27 [![Stars](https://img.shields.io/github/stars/miracuthbert/saas-boilerplate.svg)](https://github.com/miracuthbert/saas-boilerplate) ⭐ 384 | 🐛 9 | 🌐 PHP | 📅 2023-08-27
-* Electrik - <https://github.com/electrikhq/electrik> ⭐ 312 | 🐛 1 | 🌐 PHP | 📅 2026-09-21 [![Stars](https://img.shields.io/github/stars/electrikhq/electrik.svg)](https://github.com/electrikhq/electrik) ⭐ 312 | 🐛 1 | 🌐 PHP | 📅 2026-09-21
+* Electrik - <https://github.com/electrikhq/electrik> ⭐ 311 | 🐛 1 | 🌐 PHP | 📅 2026-09-21 [![Stars](https://img.shields.io/github/stars/electrikhq/electrik.svg)](https://github.com/electrikhq/electrik) ⭐ 311 | 🐛 1 | 🌐 PHP | 📅 2026-09-21
 * SaasForgeKit Lite - <https://github.com/SaasForgeKit/saasforgekit-lite> ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-11 [![Stars](https://img.shields.io/github/stars/SaasForgeKit/saasforgekit-lite.svg)](https://github.com/SaasForgeKit/saasforgekit-lite) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-11
 * Artiplate - <https://artiplate.co/>
 * Butchr - <https://butchr.dev/>
@@ -244,7 +244,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Flask
 
-* Flask App Builder - <https://github.com/dpgaspar/Flask-AppBuilder> ⭐ 4,962 | 🐛 274 | 🌐 Python | 📅 2026-11-18 [![Stars](https://img.shields.io/github/stars/dpgaspar/Flask-AppBuilder.svg)](https://github.com/dpgaspar/Flask-AppBuilder) ⭐ 4,962 | 🐛 274 | 🌐 Python | 📅 2026-11-18
+* Flask App Builder - <https://github.com/dpgaspar/Flask-AppBuilder> ⭐ 4,961 | 🐛 273 | 🌐 Python | 📅 2026-11-19 [![Stars](https://img.shields.io/github/stars/dpgaspar/Flask-AppBuilder.svg)](https://github.com/dpgaspar/Flask-AppBuilder) ⭐ 4,961 | 🐛 273 | 🌐 Python | 📅 2026-11-19
 * Ignite - <https://github.com/sumukh/ignite> ⭐ 233 | 🐛 13 | 🌐 HTML | 📅 2026-04-13 [![Stars](https://img.shields.io/github/stars/sumukh/ignite.svg)](https://github.com/sumukh/ignite) ⭐ 233 | 🐛 13 | 🌐 HTML | 📅 2026-04-13
 * Build a SAAS App with Flask - <https://buildasaasappwithflask.com/>
 * Enferno Frameowrk - <https://enferno.io/>
@@ -264,7 +264,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 ## Go
 
-* LastSaaS - <https://github.com/jonradoff/lastsaas> ⭐ 182 | 🐛 2 | 🌐 Go | 📅 2026-11-18 [![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas.svg)](https://github.com/jonradoff/lastsaas) ⭐ 182 | 🐛 2 | 🌐 Go | 📅 2026-11-18
+* LastSaaS - <https://github.com/jonradoff/lastsaas> ⭐ 183 | 🐛 2 | 🌐 Go | 📅 2026-11-18 [![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas.svg)](https://github.com/jonradoff/lastsaas) ⭐ 183 | 🐛 2 | 🌐 Go | 📅 2026-11-18
 * Autostrada - <https://autostrada.dev/>
 * GoShip - <https://goship.run/>
 * SaaS Startup Kit - <https://saasstartupkit.com/>
@@ -276,7 +276,7 @@ List of SaaS boilerplates (starter kits) by stack
 ## Ruby on Rails
 
 * Rails Tabler Starter - <https://github.com/tarunvelli/rails-tabler-starter> ⭐ 203 | 🐛 10 | 🌐 Ruby | 📅 2026-09-12 [![Stars](https://img.shields.io/github/stars/tarunvelli/rails-tabler-starter.svg)](https://github.com/tarunvelli/rails-tabler-starter) ⭐ 203 | 🐛 10 | 🌐 Ruby | 📅 2026-09-12
-* RexOne - <https://github.com/rex-9/rexone-core> ⭐ 11 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-18 [![Stars](https://img.shields.io/github/stars/rex-9/rexone-core.svg)](https://github.com/rex-9/rexone-core) ⭐ 11 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-18
+* RexOne - <https://github.com/rex-9/rexone-core> ⭐ 11 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-19 [![Stars](https://img.shields.io/github/stars/rex-9/rexone-core.svg)](https://github.com/rex-9/rexone-core) ⭐ 11 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-19
 * Bullet Train - <https://bullettrain.co/>
 * Jumpstart Rails - <https://jumpstartrails.com/>
 * Lightning Rails - <https://lightningrails.com/>
@@ -298,7 +298,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 # Rare frameworks
 
-* Extro - <https://github.com/turbostarter/extro> ⭐ 414 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 [![Stars](https://img.shields.io/github/stars/turbostarter/extro.svg)](https://github.com/turbostarter/extro) ⭐ 414 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13
+* Extro - <https://github.com/turbostarter/extro> ⭐ 413 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13 [![Stars](https://img.shields.io/github/stars/turbostarter/extro.svg)](https://github.com/turbostarter/extro) ⭐ 413 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13
 * Keyturn Kit - <https://github.com/keyturnkit/keyturn-kit> ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 [![Stars](https://img.shields.io/github/stars/keyturnkit/keyturn-kit.svg)](https://github.com/keyturnkit/keyturn-kit) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28
 * BoilerPro - <https://boilerpro.co/>
 * Flutter - <https://www.flutterboilerplate.com/>
@@ -315,4 +315,4 @@ List of SaaS boilerplates (starter kits) by stack
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
