@@ -215,7 +215,7 @@
                 "open_issues": 11,
                 "owner": "kriasoft",
                 "repo": "react-starter-kit",
-                "stars": 23725,
+                "stars": 23726,
                 "topics": [
                   "better-auth",
                   "boilerplate",
@@ -254,10 +254,10 @@
                 "language": "MDX",
                 "license": "MIT",
                 "last_commit": "2026-11-11T17:08:31Z",
-                "open_issues": 111,
+                "open_issues": 110,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16384,
+                "stars": 16393,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 52,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4971,
+                "stars": 4970,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -628,7 +628,7 @@
                 "open_issues": 0,
                 "owner": "BetterTyped",
                 "repo": "hype-stack",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "aceternity-ui",
                   "boilerplate",
@@ -789,7 +789,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13094,
+                "stars": 13097,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -831,7 +831,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7708,
+                "stars": 7706,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -1045,7 +1045,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T09:25:30Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "Nebutra",
                 "repo": "Nebutra-Sailor",
                 "stars": 5,
@@ -1086,7 +1086,7 @@
                 "id": 952937903,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T21:28:41Z",
+                "last_commit": "2026-11-21T23:48:35Z",
                 "open_issues": 0,
                 "owner": "techfreaque",
                 "repo": "next-vibe",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:52:38.754Z",
+    "last_updated": "2026-11-21T23:51:01.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
