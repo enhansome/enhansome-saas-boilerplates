@@ -215,7 +215,7 @@
                 "open_issues": 13,
                 "owner": "kriasoft",
                 "repo": "react-starter-kit",
-                "stars": 23727,
+                "stars": 23726,
                 "topics": [
                   "better-auth",
                   "boilerplate",
@@ -257,7 +257,7 @@
                 "open_issues": 110,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16415,
+                "stars": 16422,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 52,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4970,
+                "stars": 4971,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -624,7 +624,7 @@
                 "id": 1228278734,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T15:36:45Z",
+                "last_commit": "2026-11-24T21:46:10Z",
                 "open_issues": 0,
                 "owner": "BetterTyped",
                 "repo": "hype-stack",
@@ -1086,7 +1086,7 @@
                 "id": 952937903,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T03:53:32Z",
+                "last_commit": "2026-11-25T02:14:22Z",
                 "open_issues": 0,
                 "owner": "techfreaque",
                 "repo": "next-vibe",
@@ -1297,7 +1297,7 @@
                 "open_issues": 9,
                 "owner": "miracuthbert",
                 "repo": "saas-boilerplate",
-                "stars": 384,
+                "stars": 383,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -1568,7 +1568,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 184,
+                "stars": 185,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:19:53.565Z",
+    "last_updated": "2026-11-25T03:05:14.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1769,7 +1769,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-20T09:59:56Z",
-      "open_issues": 4,
+      "open_issues": 6,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
       "stars": 3089,
