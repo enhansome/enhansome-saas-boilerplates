@@ -215,7 +215,7 @@
                 "open_issues": 13,
                 "owner": "kriasoft",
                 "repo": "react-starter-kit",
-                "stars": 23726,
+                "stars": 23728,
                 "topics": [
                   "better-auth",
                   "boilerplate",
@@ -253,11 +253,11 @@
                 "id": 726082384,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-11-11T17:08:31Z",
-                "open_issues": 110,
+                "last_commit": "2026-11-25T16:33:36Z",
+                "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16422,
+                "stars": 16430,
                 "topics": [
                   "ai",
                   "authentication",
@@ -299,7 +299,7 @@
                 "open_issues": 52,
                 "owner": "boxyhq",
                 "repo": "saas-starter-kit",
-                "stars": 4971,
+                "stars": 4973,
                 "topics": [
                   "boilerplate",
                   "boilerplates",
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "async-labs",
                 "repo": "saas",
-                "stars": 4536,
+                "stars": 4535,
                 "topics": [
                   "aws-s3",
                   "aws-ses",
@@ -455,7 +455,7 @@
                 "open_issues": 7,
                 "owner": "SimonHoiberg",
                 "repo": "saas-template",
-                "stars": 781,
+                "stars": 782,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -789,7 +789,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13097,
+                "stars": 13098,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -831,7 +831,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7703,
+                "stars": 7705,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -1086,7 +1086,7 @@
                 "id": 952937903,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T02:14:22Z",
+                "last_commit": "2026-11-26T00:13:09Z",
                 "open_issues": 0,
                 "owner": "techfreaque",
                 "repo": "next-vibe",
@@ -1297,7 +1297,7 @@
                 "open_issues": 9,
                 "owner": "miracuthbert",
                 "repo": "saas-boilerplate",
-                "stars": 383,
+                "stars": 384,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -1360,7 +1360,7 @@
                 "open_issues": 0,
                 "owner": "SaasForgeKit",
                 "repo": "saasforgekit-lite",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.117Z"
@@ -1568,7 +1568,7 @@
                 "open_issues": 2,
                 "owner": "metavert-io",
                 "repo": "lastsaas",
-                "stars": 185,
+                "stars": 186,
                 "topics": [
                   "ai-agents",
                   "go",
@@ -1643,7 +1643,7 @@
                 "open_issues": 13,
                 "owner": "rex-9",
                 "repo": "rexone-core",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "clean-architecture",
                   "deepseek-ai",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:05:14.943Z",
+    "last_updated": "2026-11-26T02:17:56.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
