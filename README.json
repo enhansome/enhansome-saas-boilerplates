@@ -257,7 +257,7 @@
                 "open_issues": 104,
                 "owner": "wasp-lang",
                 "repo": "open-saas",
-                "stars": 16459,
+                "stars": 16492,
                 "topics": [
                   "ai",
                   "authentication",
@@ -732,7 +732,7 @@
                 "language": "Svelte",
                 "license": "MIT",
                 "last_commit": "2026-03-21T20:53:07Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "scosman",
                 "repo": "CMSaasStarter",
                 "stars": 2372,
@@ -789,7 +789,7 @@
                 "open_issues": 4,
                 "owner": "ixartz",
                 "repo": "Next-js-Boilerplate",
-                "stars": 13098,
+                "stars": 13100,
                 "topics": [
                   "boilerplate",
                   "boilerplate-code",
@@ -831,7 +831,7 @@
                 "open_issues": 0,
                 "owner": "vercel",
                 "repo": "nextjs-subscription-payments",
-                "stars": 7705,
+                "stars": 7706,
                 "topics": [
                   "nextjs-starter",
                   "stripe-checkout",
@@ -1086,7 +1086,7 @@
                 "id": 952937903,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-27T00:13:36Z",
+                "last_commit": "2026-11-28T01:18:54Z",
                 "open_issues": 0,
                 "owner": "techfreaque",
                 "repo": "next-vibe",
@@ -1488,7 +1488,7 @@
                 "open_issues": 274,
                 "owner": "dpgaspar",
                 "repo": "Flask-AppBuilder",
-                "stars": 4961,
+                "stars": 4960,
                 "topics": [
                   "authentication",
                   "crud",
@@ -1760,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:17:46.074Z",
+    "last_updated": "2026-11-28T02:03:10.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of SaaS boilerplates (starter kits)",
@@ -1769,10 +1769,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-20T09:59:56Z",
-      "open_issues": 7,
+      "open_issues": 9,
       "owner": "xcomptek",
       "repo": "awesome-saas-boilerplates",
-      "stars": 3090,
+      "stars": 3089,
       "topics": []
     },
     "original_repository_sha": "d7aa27d1e55b1abcb5717e06380fb2755f69fa1c",
